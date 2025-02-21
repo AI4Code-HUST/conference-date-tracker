@@ -1,0 +1,66 @@
+name: Daily Run
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Runs every day at midnight UTC
+  workflow_dispatch:  # Allows manual triggering
+
+jobs:
+  execute-code:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v2
+
+      - name: Create Service Client JSON
+        run: |
+          mkdir -p .credentials  # Ensure the directory exists
+          echo '${{ secrets.SERVICE_CLIENT }}' > .credentials/service_client.json
+
+      - name: Set Up Python 3.12
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.12'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt  # Ensure dependencies are installed
+
+      - name: Run Python Script
+        run: python main.py
+
+      - name: Configure Git
+        run: |
+          git config --global user.name "auphong2707"
+          git config --global user.email "auphong2707@gmail.com"
+      
+      - name: Add changes to git
+        run: |
+          git add .
+
+      - name: Commit changes
+        run: |
+          git commit -m "🚀 Daily Run: Update results" || echo "No changes to commit"
+
+      - name: Get Latest Commit SHA
+        run: echo "LATEST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
+
+      - name: Push changes
+        run: |
+          git push origin || echo "No changes to push"
+
+      - name: Notify the user via commit comment
+        if: ${{ hashFiles('notification.log') != '' }}
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const fs = require('fs');
+            const logContent = fs.existsSync('notification.log') ? fs.readFileSync('notification.log', 'utf8') : "No details available.";
+            
+            github.rest.repos.createCommitComment({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              commit_sha: process.env.LATEST_COMMIT,
+              body: logContent
+            });
