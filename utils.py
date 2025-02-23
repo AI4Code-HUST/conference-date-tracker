@@ -1,9 +1,16 @@
 import json
+import random
 import re
+import os
+import smtplib
 
 from ics import Event
 from datetime import datetime, timezone, timedelta, date
 from dateutil.parser import isoparse
+from email.mime.multipart import MIMEMultipart
+from email.mime.text import MIMEText
+from cryptography.fernet import Fernet
+from email_validator import validate_email, EmailNotValidError
 
 from googleapiclient.discovery import build
 from google.oauth2 import service_account
@@ -30,6 +37,9 @@ AOE_TZ = timezone(timedelta(hours=-12))
 SERVICE_ACCOUNT_FILE = ".credentials/service_client.json"
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 CALENDAR_ID = "c1c3cc42b9be97acffa4fb3bcb785cd4f57aa914fbbdf8698b349c429ebf17c3@group.calendar.google.com"
+APP_PASSWORD = os.getenv("APP_PASSWORD")
+CIPHER_SUITE = Fernet(os.getenv("CRYPTO_KEY"))
+SENDER = "ai4code.hust@gmail.com"
 
 try:
     with open('filter_config.json', 'r') as filter_file:
@@ -245,3 +255,98 @@ def log_notification(message):
     print(message)
     with open("notification.log", "a") as f:
         f.write(f"{message}\n")
+
+# [EMAIL SOLVING]
+def send_email(sender_email, app_password, receiver_emails, subject, body):
+    msg = MIMEMultipart()
+    msg['From'] = sender_email
+    # Use a generic placeholder in the "To" header
+    msg['To'] = "Undisclosed recipients"
+    msg['Subject'] = subject
+
+    msg.attach(MIMEText(body, 'plain'))
+
+    # Connect to the Gmail SMTP server
+    server = smtplib.SMTP('smtp.gmail.com', 587)
+    server.starttls()  # Secure the connection
+    server.login(sender_email, app_password)
+
+    # Notice we do NOT set msg['Bcc'] at all, so there's no BCC header in the email
+    # We still provide 'receiver_emails' to sendmail directly:
+    server.sendmail(sender_email, receiver_emails, msg.as_string())
+    server.quit()
+
+
+def send_notification_to_subscribed():
+    if not os.path.exists("notification.log"):
+        return
+
+    with open('encrypted_emails.txt', 'r') as file:
+        encrypted_text = file.read()
+
+    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
+    email_set = set(plain_text.split('\n'))
+
+    with open("notification.log", "r") as f:
+        message = f.read()
+
+    if message:
+        send_email(SENDER, APP_PASSWORD, email_set, "Notification from Conference Date Tracker - AI4CODE tool 💖🛠️", message)
+
+
+def check_email(email):
+    try:
+        # Validate and get normalized email
+        valid = validate_email(email)
+        email = valid.email
+        return True
+    except EmailNotValidError as e:
+        # Email is not valid
+        print(str(e))
+        return False
+
+
+def add_email_to_set(email):
+    if not check_email(email):
+        return False # Failed to add email to the list
+
+    with open('encrypted_emails.txt', 'r') as file:
+        encrypted_text = file.read()
+
+    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
+    email_set = set(plain_text.split('\n'))
+
+    if email in email_set:
+        return False
+    else:
+        email_set.add(email)
+        email_list = list(email_set)
+        random.shuffle(email_list)
+
+        encrypted_text = CIPHER_SUITE.encrypt('\n'.join(email_list).encode())
+        with open('encrypted_emails.txt', 'wb') as encrypted_file:
+            encrypted_file.write(encrypted_text)
+
+        return True
+
+
+def remove_email_from_set(email):
+    with open('encrypted_emails.txt', 'r') as file:
+        encrypted_text = file.read()
+    
+    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
+    email_set = set(plain_text.split('\n'))
+    
+    if email in email_set:
+        email_set.remove(email)
+        email_list = list(email_set)
+        random.shuffle(email_list)
+
+        encrypted_text = CIPHER_SUITE.encrypt('\n'.join(email_list).encode())
+        with open('encrypted_emails.txt', 'wb') as encrypted_file:
+            encrypted_file.write(encrypted_text)
+
+        return True
+    else:
+        return False
+

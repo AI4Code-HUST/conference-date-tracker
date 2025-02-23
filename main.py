@@ -92,5 +92,5 @@ for event in events:
 with open(f"results/conference_events.ics", "w") as f:
     f.writelines(calendar)
 
-# Upload the calendar to Google Calendar
-upload_calendar_to_google(calendar.events)
+# Send notification to subcribed users
+send_notification_to_subscribed()
