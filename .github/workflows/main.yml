@@ -13,11 +13,6 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Create Service Client JSON
-        run: |
-          mkdir -p .credentials  # Ensure the directory exists
-          echo '${{ secrets.SERVICE_CLIENT }}' > .credentials/service_client.json
-
       - name: Set Up Python 3.12
         uses: actions/setup-python@v4
         with:
@@ -30,9 +25,12 @@ jobs:
         run: python main.py
 
       - name: Configure Git
+        env:
+          APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
+          CRYPTO_KEY: ${{ secrets.CRYPTO_KEY }}
         run: |
-          git config --global user.name "auphong2707"
-          git config --global user.email "auphong2707@gmail.com"
+          git config --global user.name "AI4Code-HUST"
+          git config --global user.email "ai4code.hust@gmail.com"
       
       - name: Add changes to git
         run: |
@@ -42,25 +40,6 @@ jobs:
         run: |
           git commit -m "🚀 Daily Run: Update results" || echo "No changes to commit"
 
-      - name: Get Latest Commit SHA
-        run: echo "LATEST_COMMIT=$(git rev-parse HEAD)" >> $GITHUB_ENV
-
       - name: Push changes
         run: |
           git push origin || echo "No changes to push"
-
-      - name: Notify the user via commit comment
-        if: ${{ hashFiles('notification.log') != '' }}
-        uses: actions/github-script@v6
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          script: |
-            const fs = require('fs');
-            const logContent = fs.existsSync('notification.log') ? fs.readFileSync('notification.log', 'utf8') : "No details available.";
-            
-            github.rest.repos.createCommitComment({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              commit_sha: process.env.LATEST_COMMIT,
-              body: logContent
-            });
