@@ -22,12 +22,12 @@ jobs:
         run: pip install -r requirements.txt  # Ensure dependencies are installed
 
       - name: Run Python Script
-        run: python main.py
-
-      - name: Configure Git
         env:
           APP_PASSWORD: ${{ secrets.APP_PASSWORD }}
           CRYPTO_KEY: ${{ secrets.CRYPTO_KEY }}
+        run: python main.py
+
+      - name: Configure Git
         run: |
           git config --global user.name "AI4Code-HUST"
           git config --global user.email "ai4code.hust@gmail.com"
