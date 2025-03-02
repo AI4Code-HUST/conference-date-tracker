@@ -81,11 +81,6 @@
 {"conference": "ESEIW 2025", "conference_link": "https://conf.researchr.org/home/esem-2025", "date": "Fri 27 Jun 2025", "track": "IDoESE - Doctoral Symposium", "content": "Camera-Ready"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 27 Jun 2025", "track": "ICFP  Papers", "content": "Final Decision Notification"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 27 Jun 2025", "track": "SPLASH OOPSLA Artifacts", "content": "Submission Round 2"}
-{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Fri 28 Feb 2025", "track": "2030 Software Engineering", "content": "Submission Deadline"}
-{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Fri 28 Feb 2025", "track": "PROMISE", "content": "Submissions Due"}
-{"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Fri 28 Feb 2025", "track": "Posters", "content": "Submission deadline"}
-{"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Fri 28 Feb 2025", "track": "SPLASH OOPSLA", "content": "Camera Ready R1"}
-{"conference": "ICSE 2025", "conference_link": "https://conf.researchr.org/home/icse-2025", "date": "Fri 28 Feb 2025", "track": "TechDebt Industry Track", "content": "Notification for talks"}
 {"conference": "ISSTA 2025", "conference_link": "https://conf.researchr.org/home/issta-2025", "date": "Fri 28 Mar 2025", "track": "EXPRESS", "content": "Submission Deadline"}
 {"conference": "MODELS 2025", "conference_link": "https://conf.researchr.org/home/models-2025", "date": "Fri 28 Mar 2025", "track": "Workshops", "content": "Submission deadline"}
 {"conference": "STAF 2025", "conference_link": "https://conf.researchr.org/home/staf-2025", "date": "Fri 28 Mar 2025", "track": "Agile MDE", "content": "Abstract Submission deadline"}
@@ -134,6 +129,7 @@
 {"conference": "EASE 2025", "conference_link": "https://conf.researchr.org/home/ease-2025", "date": "Mon 10 Mar 2025", "track": "Doctoral Symposium", "content": "Submission Deadline"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Mon 10 Mar 2025", "track": "Demonstrations", "content": "Author notification"}
 {"conference": "Requirements Engineering 2025", "conference_link": "https://conf.researchr.org/home/RE-2025", "date": "Mon 10 Mar 2025", "track": "Research Papers", "content": "Full Paper Submission"}
+{"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Mon 10 Mar 2025", "track": "AIandAgile", "content": "Submissions Due"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Mon 10 Mar 2025", "track": "Experience Reports", "content": "Progress Checkpoint"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Mon 10 Mar 2025", "track": "GoHyb", "content": "Submissions Due"}
 {"conference": "ICFP/SPLASH 2025", "conference_link": "https://conf.researchr.org/home/icfp-splash-2025", "date": "Mon 11 Aug 2025", "track": "SPLASH Onward! Essays", "content": "Final Notification"}
@@ -248,7 +244,6 @@
 {"conference": "Requirements Engineering 2025", "conference_link": "https://conf.researchr.org/home/RE-2025", "date": "Mon 9 Jun 2025", "track": "Industrial Innovation Track", "content": "Presentation Outline"}
 {"conference": "Requirements Engineering 2025", "conference_link": "https://conf.researchr.org/home/RE-2025", "date": "Mon 9 Jun 2025", "track": "Workshops", "content": "Workshop papers due"}
 {"conference": "FSE 2025", "conference_link": "https://conf.researchr.org/home/fse-2025", "date": "Sat 1 Mar 2025", "track": "Internetware Research Track", "content": "Submission Deadline"}
-{"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Sat 1 Mar 2025", "track": "AIandAgile", "content": "Submissions Due"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Sat 1 Mar 2025", "track": "Agile Training and Education", "content": "Notification of Acceptance"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Sat 1 Mar 2025", "track": "AgileIS", "content": "Submissions Due"}
 {"conference": "XP 2025", "conference_link": "https://conf.researchr.org/home/xp-2025", "date": "Sat 1 Mar 2025", "track": "Industry and Practice", "content": "Acceptance notification"}
