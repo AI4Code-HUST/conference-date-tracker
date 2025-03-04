@@ -19,6 +19,7 @@ soup = BeautifulSoup(response.text, "lxml")
 dom = etree.HTML(str(soup))
 conferences = dom.xpath("//div[div[@class='panel-title' and text()='Upcoming Conferences']]/..//h3")
 
+calendar = Calendar()
 
 # Extract the events from the conferences
 def fetch_conference_events(conference):
@@ -33,20 +34,33 @@ def fetch_conference_events(conference):
 
         tr_elements = dom.xpath("//tr[@class='clickable-row text-success']")
         for tr in tr_elements:
-            event_link = tr.get("href")
+            
             td_elements = tr.xpath(".//td")
-            event_date = extract_row_element_text(td_elements[0])
-            event_track = extract_row_element_text(td_elements[1])
-            event_content = extract_row_element_text(td_elements[2])
+            
+            event_conference = conference_name.strip()
+            event_conference_link = conference.find("a").get("href")
+            event_date = extract_row_element_text(td_elements[0]).strip()
+            event_track = extract_row_element_text(td_elements[1]).strip()
+            event_content = extract_row_element_text(td_elements[2]).strip()
+            event_link = tr.get("href")
+
+            event = create_event(event_conference, event_conference_link, event_date, event_track, event_content, event_link)
 
             events.append({
-                "conference": conference_name.strip(),
-                "conference_link": conference.find("a").get("href"),
+                "conference": event_conference,
+                "conference_link": event_conference_link,
                 "date": event_date.strip(),
                 "track": event_track.strip(),
                 "content": event_content.strip(),
-                "link": event_link
+                "link": event_link,
+                "gg_calendar_href": f"https://calendar.google.com/calendar/u/0/r/eventedit?text={event.name.replace(" ", "+")}"
+                                    + f"&dates={event.begin.strftime("%Y%m%dT%H%M%SZ")}/{event.end.strftime("%Y%m%dT%H%M%SZ")}"
+                                    + f"&details={event.description.replace(" ", "+").replace("\n", "%0A")}&location&sprop&sprop=name:"
             })
+
+            if check_filter(event_conference, event_date, event_track, event_content):
+                calendar.events.add(event)
+
     return events
 
 events = []
@@ -82,17 +96,9 @@ with open("results/conference_events.jsonl", "w") as f:
     for event in events:
         f.write(json.dumps(event) + "\n")
 
-# Create the events in the calendar
-events = [event for event in events if check_filter(event["conference"], event["date"], event["track"], event["content"])]
-
-calendar = Calendar()
-for event in events:
-    event = create_event(event["conference"], event["conference_link"], event["date"], event["track"], event["content"])
-    calendar.events.add(event)
-
 # Save the conference events to a file
 with open(f"results/conference_events.ics", "w") as f:
     f.writelines(calendar)
 
 # Send notification to subcribed users
-send_notification_to_subscribed()
+# send_notification_to_subscribed()
