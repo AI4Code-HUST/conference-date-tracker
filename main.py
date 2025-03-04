@@ -33,6 +33,7 @@ def fetch_conference_events(conference):
 
         tr_elements = dom.xpath("//tr[@class='clickable-row text-success']")
         for tr in tr_elements:
+            event_link = tr.get("href")
             td_elements = tr.xpath(".//td")
             event_date = extract_row_element_text(td_elements[0])
             event_track = extract_row_element_text(td_elements[1])
@@ -43,7 +44,8 @@ def fetch_conference_events(conference):
                 "conference_link": conference.find("a").get("href"),
                 "date": event_date.strip(),
                 "track": event_track.strip(),
-                "content": event_content.strip()
+                "content": event_content.strip(),
+                "link": event_link
             })
     return events
 
