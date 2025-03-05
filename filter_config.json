@@ -119,6 +119,7 @@
             "Research Papers": true
         },
         "ICFP/SPLASH": {
+            "Erlang": false,
             "ICFP  Artifacts": true,
             "ICFP  Papers": true,
             "LMPL": false,
