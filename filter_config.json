@@ -38,6 +38,7 @@
             "Research Papers": true
         },
         "ASE": {
+            "AIware Research Papers": false,
             "Industry Showcase": false,
             "Journal-First Track": false,
             "NIER Track": true,
@@ -123,6 +124,7 @@
             "ICFP  Artifacts": true,
             "ICFP  Papers": true,
             "LMPL": false,
+            "MPLR": false,
             "SAS": true,
             "SAS  Artifact": true,
             "SPLASH OOPSLA": true,
@@ -162,6 +164,7 @@
             "NIER Track": true,
             "Registered Reports": false,
             "Research Papers Track": true,
+            "SCAM Engineering Track": false,
             "SCAM Research Track": false,
             "Tool Demonstration Track": true
         },
@@ -400,6 +403,7 @@
         "ITEQS 2025 Workshop": true,
         "Initial Notification": true,
         "Initial report submission": false,
+        "Intent Registration (Optional)": false,
         "Journal first acceptance notification": true,
         "Journal first submission deadline": true,
         "Keynote speaker published": false,
