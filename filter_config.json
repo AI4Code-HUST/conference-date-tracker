@@ -8,6 +8,7 @@
         "APLAS": false,
         "APSEC": false,
         "ASE": false,
+        "ATVA": false,
         "CISOSE": false,
         "CIbSE": false,
         "EASE": false,
@@ -266,6 +267,9 @@
         },
         "vlhcc": {
             "Research Papers": true
+        },
+        "ATVA": {
+            "Research Papers": false
         }
     },
     "content_filter": {
@@ -280,6 +284,7 @@
         "Abstract and Paper Submission": false,
         "Abstract registration deadline": true,
         "Abstract submission": true,
+        "Abstract submission deadline": false,
         "Abstracts": true,
         "Abstracts and Posters submission deadline": true,
         "Abstracts and submissions new acceptance notification": true,
