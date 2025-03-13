@@ -123,6 +123,7 @@
         },
         "ICFP/SPLASH": {
             "Erlang": false,
+            "Haskell": false,
             "ICFP  Artifacts": true,
             "ICFP  Papers": true,
             "LMPL": false,
@@ -499,6 +500,7 @@
         "Submissions": true,
         "Submissions Due": true,
         "Submissions Due (dummy)": true,
+        "Symposium": false,
         "Talk Proposal Submission": true,
         "Technical Briefings Acceptance Notification": false,
         "Technical Briefings Presentation (TBC)": false,
