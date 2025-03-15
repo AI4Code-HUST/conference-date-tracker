@@ -130,6 +130,7 @@
             "ICFP  Papers": true,
             "LMPL": false,
             "MPLR": false,
+            "PROPL": false,
             "SAS": true,
             "SAS  Artifact": true,
             "SPLASH OOPSLA": true,
