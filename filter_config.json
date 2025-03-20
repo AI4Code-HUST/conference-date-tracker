@@ -81,6 +81,9 @@
             "Workshops": true
         },
         "ECSA": {
+            "Call for Doctoral Symposium Papers": false,
+            "Call for Industry Program Papers": false,
+            "Call for Journal First Papers": false,
             "Call for Papers": true,
             "Call for Research Papers": false,
             "Call for Tools & Demos": true,
@@ -302,6 +305,7 @@
         "Acceptance Deadlines": true,
         "Acceptance Notification of ACM TOSEM papers": true,
         "Acceptance notification": true,
+        "Acceptance notifications": false,
         "Accepted RR reports must be submitted to arXiv": false,
         "Application Notification": true,
         "Application Submission": true,
