@@ -90,7 +90,12 @@
             "Call for Workshops": true,
             "Doctoral Symposium": true,
             "ICTSS General Track": true,
-            "Industry Program": true
+            "Industry Program": true,
+            "Journal First": false,
+            "Research Papers": false,
+            "Tools & Demos": false,
+            "Tutorials": false,
+            "Workshops": false
         },
         "ESEIW": {
             "ESEM - Emerging Results and Vision Track": true,
@@ -384,6 +389,7 @@
         "Doctoral Symposium submissions - new date": false,
         "Early Decisions Notification": true,
         "Early Registration Deadline": true,
+        "Early Registration Deadline for Authors": false,
         "Early registration": true,
         "Early registration deadline": true,
         "Early registration deadline for authors": true,
@@ -445,6 +451,7 @@
         "Notification of Authors": false,
         "Notification of Conditional Acceptance": true,
         "Notification of Stage 1": false,
+        "Notification of Tutorial proposals": false,
         "Notification of acceptance": true,
         "Notification of workshop submitters": true,
         "Notification to authors": true,
@@ -524,6 +531,7 @@
         "Tutorial paper camera-ready": true,
         "Tutorial proposal notification": true,
         "Tutorial proposal submission": true,
+        "Tutorial proposals due": false,
         "Tutorials Proposal Submission": true,
         "Tutorials and Technical Briefings Date": true,
         "Tutorials and Workshops": false,
