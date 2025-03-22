@@ -104,7 +104,8 @@
             "ESEM - Registered Reports Track": false,
             "ESEM - Research Projects Track": true,
             "ESEM - Technical Track": true,
-            "IDoESE - Doctoral Symposium": true
+            "IDoESE - Doctoral Symposium": true,
+            "ISERN - Annual Meeting": false
         },
         "FSE": {
             "2030 Software Engineering": true,
@@ -149,7 +150,8 @@
             "SPLASH Student Research Competition": true,
             "Scheme": false,
             "VMIL": false,
-            "Workshops": true
+            "Workshops": true,
+            "miniKanren and Relational Programming Workshop": false
         },
         "ICSE": {
             "AST": true,
@@ -506,6 +508,7 @@
         "Submission": true,
         "Submission Deadline": true,
         "Submission Deadline (EXTENDED)": false,
+        "Submission Deadline (FIRM)": false,
         "Submission Deadline (Research papers)": false,
         "Submission Deadline (Work-in-Progress papers)": false,
         "Submission Deadline for the ACM TOSEM special issue": true,
