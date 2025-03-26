@@ -14,6 +14,7 @@
         "EASE": false,
         "ECSA": false,
         "ESEIW": false,
+        "FM": false,
         "FSE": false,
         "FSEN": false,
         "ICFP/SPLASH": true,
@@ -133,6 +134,7 @@
         },
         "ICFP/SPLASH": {
             "Erlang": false,
+            "FProPer": false,
             "FUNARCH": false,
             "Haskell": false,
             "ICFP  Artifacts": true,
@@ -290,6 +292,9 @@
         },
         "ATVA": {
             "Research Papers": false
+        },
+        "FM": {
+            "Research Paper": false
         }
     },
     "content_filter": {
@@ -302,6 +307,7 @@
         "Abstract Submission Deadline": true,
         "Abstract Submission deadline": true,
         "Abstract and Paper Submission": false,
+        "Abstract for full papers": false,
         "Abstract registration deadline": true,
         "Abstract submission": true,
         "Abstract submission deadline": false,
@@ -409,6 +415,7 @@
         "Final Notification for Major Revisions": true,
         "Final Notification to Authors": true,
         "Final Paper submission deadline": false,
+        "Final Version": false,
         "Final copy of submission due": true,
         "Final decision": true,
         "Final notification": true,
@@ -430,6 +437,7 @@
         "Full Paper Submission": true,
         "Full Paper Submission Deadline": true,
         "Full paper": true,
+        "Full paper submission": false,
         "Full paper submission to EMSE": false,
         "Full-Paper Submission": true,
         "ITEQS 2025 Workshop": true,
@@ -540,6 +548,7 @@
         "Tutorials Proposal Submission": true,
         "Tutorials and Technical Briefings Date": true,
         "Tutorials and Workshops": false,
+        "Two page abstract submission (presentation only)": false,
         "Virtual DECS sessions": true,
         "Workshop": true,
         "Workshop CfP ready": true,
