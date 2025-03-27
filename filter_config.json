@@ -291,6 +291,7 @@
             "Research Papers": true
         },
         "ATVA": {
+            "Artifacts": false,
             "Research Papers": false
         },
         "FM": {
@@ -495,6 +496,7 @@
         "Proposal Submissions Deadline": false,
         "Rebuttal period": true,
         "Rebuttal phase": true,
+        "Regular paper artifact submission deadline": false,
         "Revised Manuscript Submission (for major revisions only)": true,
         "Revised Manuscript Submissions (Major Revisions Only)": true,
         "Revised submission deadline": false,
@@ -541,6 +543,8 @@
         "Technical Briefings Acceptance Notification": false,
         "Technical Briefings Presentation (TBC)": false,
         "Technical Briefings Proposals Submission": false,
+        "Tool paper artifact submission deadline": false,
+        "Tool paper revised artifact submission deadline": false,
         "Tutorial paper camera-ready": true,
         "Tutorial proposal notification": true,
         "Tutorial proposal submission": true,
