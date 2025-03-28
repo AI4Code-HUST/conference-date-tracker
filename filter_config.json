@@ -136,6 +136,7 @@
             "Erlang": false,
             "FProPer": false,
             "FUNARCH": false,
+            "HOPE": false,
             "Haskell": false,
             "ICFP  Artifacts": true,
             "ICFP  Papers": true,
