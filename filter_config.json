@@ -48,6 +48,7 @@
             "Research Papers": true,
             "Student Research Competition": false,
             "Tool Demonstration Track": false,
+            "Tutorials": false,
             "Workshops": false
         },
         "CISOSE": {
@@ -325,6 +326,7 @@
         "Acceptance notification": true,
         "Acceptance notifications": false,
         "Accepted RR reports must be submitted to arXiv": false,
+        "Advertisement Material": false,
         "Application Notification": true,
         "Application Submission": true,
         "Application deadline": true,
@@ -500,6 +502,7 @@
         "Progress Checkpoint": true,
         "Proposal": true,
         "Proposal Acceptance Notification": false,
+        "Proposal Notification": false,
         "Proposal Submissions Deadline": false,
         "Rebuttal period": true,
         "Rebuttal phase": true,
