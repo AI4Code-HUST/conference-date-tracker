@@ -37,7 +37,8 @@
             "Research Papers": true
         },
         "APSEC": {
-            "Research Papers": true
+            "Research Papers": true,
+            "Technical Track": false
         },
         "ASE": {
             "AIware Research Papers": false,
@@ -156,6 +157,7 @@
             "SPLASH Onward! Papers": true,
             "SPLASH Student Research Competition": true,
             "Scheme": false,
+            "The Scala Workshop": false,
             "VMIL": false,
             "Workshops": true,
             "miniKanren and Relational Programming Workshop": false
@@ -377,6 +379,7 @@
         "Camera ready submission": true,
         "Camera-Ready": true,
         "Camera-Ready Deadline": true,
+        "Camera-Ready Submission": false,
         "Camera-Ready Submission Deadline": true,
         "Camera-Ready Version": true,
         "Camera-ready": true,
