@@ -158,6 +158,7 @@
             "SPLASH Student Research Competition": true,
             "Scheme": false,
             "The Scala Workshop": false,
+            "TyDe": false,
             "VMIL": false,
             "Workshops": true,
             "miniKanren and Relational Programming Workshop": false
@@ -549,6 +550,7 @@
         "Submission for major-revision papers": true,
         "Submission of Papers": true,
         "Submission of Revisions R2": false,
+        "Submission of camera-ready papers": false,
         "Submission of final Experience Report": true,
         "Submissions": true,
         "Submissions Deadline": false,
