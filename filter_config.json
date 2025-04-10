@@ -28,6 +28,7 @@
         "POPL": false,
         "PROFES": false,
         "Requirements Engineering": false,
+        "SANER": false,
         "STAF": false,
         "XP": false,
         "vlhcc": false
@@ -307,6 +308,17 @@
         "FM": {
             "FM 2026": false,
             "Research Paper": false
+        },
+        "SANER": {
+            "Early Research Achievement (ERA) Track": false,
+            "Industrial Track": false,
+            "Journal First Track": false,
+            "Registered Report Track": false,
+            "Reproducibility Studies and Negative Results (RENE) Track": false,
+            "Research Papers": false,
+            "Short Papers and Posters Track": false,
+            "Tool Demo Track": false,
+            "Workshops & Tutorials": false
         }
     },
     "content_filter": {
@@ -322,6 +334,7 @@
         "Abstract for full papers": false,
         "Abstract registration deadline": true,
         "Abstract submission": true,
+        "Abstract submission (mandatory)": false,
         "Abstract submission deadline": false,
         "Abstracts": true,
         "Abstracts and Posters submission deadline": true,
@@ -333,6 +346,7 @@
         "Acceptance Notification of ACM TOSEM papers": true,
         "Acceptance notification": true,
         "Acceptance notifications": false,
+        "Accepted RR Report to arXiv Submission": false,
         "Accepted RR reports must be submitted to arXiv": false,
         "Advertisement Material": false,
         "Application Notification": true,
@@ -432,6 +446,7 @@
         "Final Author Notification (if needed)": false,
         "Final Decision Notification": true,
         "Final Notification": true,
+        "Final Notification (Authors receive notification of Stage 1)": false,
         "Final Notification for Major Revisions": true,
         "Final Notification to Authors": true,
         "Final Paper submission deadline": false,
@@ -453,6 +468,7 @@
         "First Cycle: Notification": true,
         "First Cycle: Revision due": true,
         "First Cycle: Submission": true,
+        "First Notification (Authors receive reviews)": false,
         "First-round Notification": false,
         "First-round notification": true,
         "FormaliSE 2025": true,
@@ -517,6 +533,7 @@
         "Proposal Acceptance Notification": false,
         "Proposal Notification": false,
         "Proposal Submissions Deadline": false,
+        "RR Submission": false,
         "Rebuttal period": true,
         "Rebuttal phase": true,
         "Regular paper artifact submission deadline": false,
@@ -543,6 +560,7 @@
         "Second Cycle: Notification": true,
         "Second Cycle: Revision due": true,
         "Second Cycle: Submission": true,
+        "Second Round Submission (Authors submit rebuttal & revised report)": false,
         "Second-round submission": true,
         "Self-nomination Closes": true,
         "Submission": true,
@@ -578,6 +596,9 @@
         "Tutorial proposal notification": true,
         "Tutorial proposal submission": true,
         "Tutorial proposals due": false,
+        "Tutorial: Author Notification": false,
+        "Tutorial: Camera-ready version": false,
+        "Tutorial: Submission Date": false,
         "Tutorials Proposal Submission": true,
         "Tutorials and Technical Briefings Date": true,
         "Tutorials and Workshops": false,
@@ -618,6 +639,8 @@
         "Workshop proposal notification": true,
         "Workshop proposal submission": true,
         "Workshop summary (for website) sent to Workshop Co-chairs": true,
+        "Workshop: Call for Proposals Submission": false,
+        "Workshop: Proposal Notification": false,
         "Workshops Date": true,
         "Worksop": true
     }
