@@ -325,6 +325,7 @@
     "content_filter": {
         "Abstract": true,
         "Abstract (mandatory)": true,
+        "Abstract + Paper submission deadline": false,
         "Abstract Deadline": false,
         "Abstract Due": true,
         "Abstract Submission": true,
