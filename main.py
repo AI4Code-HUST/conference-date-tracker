@@ -1,18 +1,15 @@
 import concurrent.futures
 import os
-
 import requests
 from bs4 import BeautifulSoup
 from lxml import etree
 from ics import Calendar
-
 from utils import *
  
 
 # Get the HTML content of the website
 base_url = "https://conf.researchr.org/"
 response = requests.get(base_url)
-
 
 # Get all the <h3> elements that contain the conference names and links
 soup = BeautifulSoup(response.text, "lxml")
@@ -89,6 +86,8 @@ if os.path.exists("results/conference_events.jsonl"):
             if newly_appear_conferences:
                 log_notification(f"New events found in the following conferences: {', '.join(newly_appear_conferences)}")
 
+# Sort events by date
+events = sort_by_date(events)
 
 # Save the new events to a file
 os.makedirs("results", exist_ok=True)

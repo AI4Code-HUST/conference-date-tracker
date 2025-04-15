@@ -1,22 +1,13 @@
 import json
-import random
 import re
 import os
-import smtplib
-
 from ics import Event
-from datetime import datetime, timezone, timedelta, date
-from dateutil.parser import isoparse
-from email.mime.multipart import MIMEMultipart
-from email.mime.text import MIMEText
-from cryptography.fernet import Fernet
-from email_validator import validate_email, EmailNotValidError
-
-from googleapiclient.discovery import build
-from google.oauth2 import service_account
-from ics import Event
-
-from typing import List
+from datetime import (
+    datetime,
+    timezone,
+    timedelta,
+    date
+)
 
 MONTH_DICT = {
     "Jan": 1,
@@ -38,7 +29,6 @@ SERVICE_ACCOUNT_FILE = ".credentials/service_client.json"
 SCOPES = ["https://www.googleapis.com/auth/calendar"]
 CALENDAR_ID = "c1c3cc42b9be97acffa4fb3bcb785cd4f57aa914fbbdf8698b349c429ebf17c3@group.calendar.google.com"
 APP_PASSWORD = os.getenv("APP_PASSWORD")
-CIPHER_SUITE = Fernet(os.getenv("CRYPTO_KEY"))
 SENDER = "ai4code.hust@gmail.com"
 
 try:
@@ -220,134 +210,46 @@ def update_filter(events):
     with open('filter_config.json', 'w') as filter_file:
         json.dump(filters, filter_file, indent=4)
 
-
-def upload_calendar_to_google(new_events: List[Event]):
-    creds = service_account.Credentials.from_service_account_file(
-        SERVICE_ACCOUNT_FILE, scopes=SCOPES
-    )
-
-    # Connect to Google Calendar API
-    service = build("calendar", "v3", credentials=creds)
-
-    # Call the Calendar API to removes all the events that have ends time >= now
-    events_result = service.events().list(calendarId=CALENDAR_ID, singleEvents=True, orderBy="startTime").execute()
-    events = events_result.get("items", [])
-
-    for event in events:
-        end_time = isoparse(event["end"]["dateTime"])
-        event_tz = end_time.tzinfo
-        
-        if end_time >= datetime.now(tz=event_tz):
-            service.events().delete(calendarId=CALENDAR_ID, eventId=event["id"]).execute()
-
-    # Add new events to the calendar
-    for event in new_events:
-        event = {
-            "summary": event.name,
-            "description": event.description,
-            "start": {"dateTime": event.begin.isoformat()},
-            "end": {"dateTime": event.end.isoformat()},
-        }
-        service.events().insert(calendarId=CALENDAR_ID, body=event).execute()
-
-    print("Calendar updated successfully!")
-
 def log_notification(message):
     print(message)
     with open("notification.log", "a") as f:
         f.write(f"{message}\n")
 
-# [EMAIL SOLVING]
-def send_email(sender_email, app_password, receiver_emails, subject, body):
-    msg = MIMEMultipart()
-    msg['From'] = sender_email
-    # Use a generic placeholder in the "To" header
-    msg['To'] = "Undisclosed recipients"
-    msg['Subject'] = subject
-
-    msg.attach(MIMEText(body, 'plain'))
-
-    # Connect to the Gmail SMTP server
-    server = smtplib.SMTP('smtp.gmail.com', 587)
-    server.starttls()  # Secure the connection
-    server.login(sender_email, app_password)
-
-    # Notice we do NOT set msg['Bcc'] at all, so there's no BCC header in the email
-    # We still provide 'receiver_emails' to sendmail directly:
-    server.sendmail(sender_email, receiver_emails, msg.as_string())
-    server.quit()
-
-
-def send_notification_to_subscribed():
-    if not os.path.exists("notification.log"):
-        return
-
-    with open('encrypted_emails.txt', 'r') as file:
-        encrypted_text = file.read()
-
-    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
-    email_set = set(plain_text.split('\n'))
-
-    with open("notification.log", "r") as f:
-        message = f.read()
-
-    if message:
-        send_email(SENDER, APP_PASSWORD, email_set, "Notification from Conference Date Tracker - AI4CODE tool 💖🛠️", message)
-
-
-def check_email(email):
-    try:
-        # Validate and get normalized email
-        valid = validate_email(email)
-        email = valid.email
-        return True
-    except EmailNotValidError as e:
-        # Email is not valid
-        print(str(e))
-        return False
-
-
-def add_email_to_set(email):
-    if not check_email(email):
-        return False # Failed to add email to the list
-
-    with open('encrypted_emails.txt', 'r') as file:
-        encrypted_text = file.read()
-
-    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
-    email_set = set(plain_text.split('\n'))
-
-    if email in email_set:
-        return False
-    else:
-        email_set.add(email)
-        email_list = list(email_set)
-        random.shuffle(email_list)
-
-        encrypted_text = CIPHER_SUITE.encrypt('\n'.join(email_list).encode())
-        with open('encrypted_emails.txt', 'wb') as encrypted_file:
-            encrypted_file.write(encrypted_text)
-
-        return True
-
-
-def remove_email_from_set(email):
-    with open('encrypted_emails.txt', 'r') as file:
-        encrypted_text = file.read()
+def sort_by_date(conference_events):
+    """
+    Sort a list of conference event dictionaries by the 'date' field.
     
-    plain_text = CIPHER_SUITE.decrypt(encrypted_text).decode()
-    email_set = set(plain_text.split('\n'))
-    
-    if email in email_set:
-        email_set.remove(email)
-        email_list = list(email_set)
-        random.shuffle(email_list)
+    Args:
+        conference_events (list): List of dicts, each containing a 'date' key.
 
-        encrypted_text = CIPHER_SUITE.encrypt('\n'.join(email_list).encode())
-        with open('encrypted_emails.txt', 'wb') as encrypted_file:
-            encrypted_file.write(encrypted_text)
+    Returns:
+        list: Sorted list of dictionaries by date.
+    """
+    for event in conference_events:
+        try:
+            # Handle date ranges (e.g., "Mon 10 - Thu 13 Nov 2025")
+            if '-' in event['date']:
+                log_notification(f"Handling date range for event: {event}")
+                start_date, end_date = event['date'].split('-')
+                start_date = start_date.strip()
+                end_date = end_date.strip()
 
-        return True
-    else:
-        return False
+                # Extract month and year from the end_date if missing in start_date
+                if not re.search(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)", start_date):
+                    month = re.search(r"(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)", end_date).group()
+                    start_date += f" {month}"
+                if not re.search(r"\d{4}", start_date):
+                    year = re.search(r"\d{4}", end_date).group()
+                    start_date += f" {year}"
 
+                event['date'] = start_date
+
+            # Remove time part if present
+            if ':' in event['date']:
+                log_notification(f"Invalid date format for event: {event}")
+                event['date'] = re.sub(r"\b\d{1,2}:\d{2}\b", "", event['date']).strip()
+            
+            event['date'] = datetime.strptime(event['date'], "%a %d %b %Y").strftime("%a %d %b %Y")
+        except ValueError:
+            log_notification(f"Invalid date format for event: {event}")
+    return sorted(conference_events, key=lambda x: datetime.strptime(x['date'], "%a %d %b %Y"))
