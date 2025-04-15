@@ -9,6 +9,7 @@
         "APSEC": false,
         "ASE": false,
         "ATVA": false,
+        "CASCON": false,
         "CISOSE": false,
         "CIbSE": false,
         "EASE": false,
@@ -39,7 +40,8 @@
         },
         "APSEC": {
             "Research Papers": true,
-            "Technical Track": false
+            "Technical Track": false,
+            "Tool Demonstration": false
         },
         "ASE": {
             "AIware Research Papers": false,
@@ -320,6 +322,13 @@
             "Short Papers and Posters Track": false,
             "Tool Demo Track": false,
             "Workshops & Tutorials": false
+        },
+        "CASCON": {
+            "Artifacts": false,
+            "Posters": false,
+            "Technical Papers": false,
+            "Tutorials": false,
+            "Workshops": false
         }
     },
     "content_filter": {
@@ -329,6 +338,7 @@
         "Abstract Deadline": false,
         "Abstract Due": true,
         "Abstract Submission": true,
+        "Abstract Submission (Optional and Encouraged)": false,
         "Abstract Submission (Research papers)": false,
         "Abstract Submission Deadline": true,
         "Abstract Submission deadline": true,
@@ -345,6 +355,7 @@
         "Acceptance": true,
         "Acceptance Deadlines": true,
         "Acceptance Notificaiton": false,
+        "Acceptance Notification": false,
         "Acceptance Notification of ACM TOSEM papers": true,
         "Acceptance notification": true,
         "Acceptance notifications": false,
@@ -476,6 +487,10 @@
         "FormaliSE 2025": true,
         "Full Paper Submission": true,
         "Full Paper Submission Deadline": true,
+        "Full Proposal Due": false,
+        "Full Proposal Submission": false,
+        "Full Submission Due": false,
+        "Full Technical Paper Submission": false,
         "Full paper": true,
         "Full paper submission": false,
         "Full paper submission to EMSE": false,
@@ -528,11 +543,15 @@
         "Paper/Poster Submission Deadline": true,
         "Papers submission": true,
         "Participate in CHASE conference": true,
+        "Poster Session Dates": false,
         "Posters-only Early-bird registration deadline": true,
         "Presentation Outline": true,
         "Progress Checkpoint": true,
         "Proposal": true,
+        "Proposal Abstract Due": false,
+        "Proposal Abstract Submission Deadline": false,
         "Proposal Acceptance Notification": false,
+        "Proposal Full Submission Deadline": false,
         "Proposal Notification": false,
         "Proposal Submissions Deadline": false,
         "RR Submission": false,
@@ -573,6 +592,7 @@
         "Submission Deadline (Work-in-Progress papers)": false,
         "Submission Deadline for the ACM TOSEM special issue": true,
         "Submission R2": true,
+        "Submission Registration Due": false,
         "Submission Round 2": true,
         "Submission deadline": true,
         "Submission deadline for talks": true,
@@ -592,6 +612,7 @@
         "Technical Briefings Acceptance Notification": false,
         "Technical Briefings Presentation (TBC)": false,
         "Technical Briefings Proposals Submission": false,
+        "Technical Paper Presentation": false,
         "Tool paper artifact submission deadline": false,
         "Tool paper revised artifact submission deadline": false,
         "Tutorial paper camera-ready": true,
