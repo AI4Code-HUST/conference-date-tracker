@@ -303,7 +303,8 @@
             "Research Workshops": true
         },
         "vlhcc": {
-            "Research Papers": true
+            "Research Papers": true,
+            "Workshops and Tutorials": false
         },
         "ATVA": {
             "Artifacts": false,
@@ -443,6 +444,7 @@
         "Dates": false,
         "Deadline for Submitting Revisions": true,
         "Deadline for submission": false,
+        "Discussion Period": false,
         "Doctoral Symposium": true,
         "Doctoral Symposium acceptance notification": true,
         "Doctoral Symposium submissions": true,
@@ -566,6 +568,7 @@
         "Rebuttal phase": true,
         "Regular paper artifact submission deadline": false,
         "Resubmission of conditional accepts": false,
+        "Reviews Due": false,
         "Revised Manuscript Submission (for major revisions only)": true,
         "Revised Manuscript Submissions (Major Revisions Only)": true,
         "Revised submission deadline": false,
@@ -668,6 +671,7 @@
         "Workshop proposal acceptance new notification": true,
         "Workshop proposal notification": true,
         "Workshop proposal submission": true,
+        "Workshop submission deadline": false,
         "Workshop summary (for website) sent to Workshop Co-chairs": true,
         "Workshop: Call for Proposals Submission": false,
         "Workshop: Proposal Notification": false,
