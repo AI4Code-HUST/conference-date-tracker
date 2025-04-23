@@ -303,12 +303,14 @@
             "Research Workshops": true
         },
         "vlhcc": {
+            "Posters and Showpieces": false,
             "Research Papers": true,
             "Workshops and Tutorials": false
         },
         "ATVA": {
             "Artifacts": false,
-            "Research Papers": false
+            "Research Papers": false,
+            "Research and Tool Papers": false
         },
         "FM": {
             "FM 2026": false,
@@ -417,6 +419,7 @@
         "Camera ready submission": true,
         "Camera-Ready": true,
         "Camera-Ready Deadline": true,
+        "Camera-Ready Deadline Extended": false,
         "Camera-Ready Submission": false,
         "Camera-Ready Submission Deadline": true,
         "Camera-Ready Version": true,
@@ -545,6 +548,7 @@
         "Paper abstract submission": false,
         "Paper acceptance notification new date": true,
         "Paper and Talk Proposal Notification": true,
+        "Paper deadline": false,
         "Paper notification": false,
         "Paper submission": true,
         "Paper submission deadline": true,
@@ -653,6 +657,7 @@
         "Workshop Proposal submissions deadline extended": true,
         "Workshop Proposals online": true,
         "Workshop Session": true,
+        "Workshop call for papers and website ready": false,
         "Workshop date": true,
         "Workshop day": true,
         "Workshop paper abstracts due (optional)": true,
