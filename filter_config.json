@@ -415,6 +415,7 @@
         "Camera Ready R1": true,
         "Camera Ready R2": false,
         "Camera Ready Submission": true,
+        "Camera Ready Version": false,
         "Camera ready": true,
         "Camera ready (directly accepted paper)": true,
         "Camera ready (major revisions)": true,
