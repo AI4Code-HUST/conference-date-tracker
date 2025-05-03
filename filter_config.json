@@ -39,6 +39,7 @@
             "Research Papers": true
         },
         "APSEC": {
+            "Early Research Achievements (ERA)": false,
             "Research Papers": true,
             "Technical Track": false,
             "Tool Demonstration": false
@@ -609,6 +610,7 @@
         "Submission Deadline (Research papers)": false,
         "Submission Deadline (Work-in-Progress papers)": false,
         "Submission Deadline for the ACM TOSEM special issue": true,
+        "Submission Open": false,
         "Submission R2": true,
         "Submission Registration Due": false,
         "Submission Round 2": true,
