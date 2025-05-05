@@ -151,6 +151,7 @@
             "Haskell": false,
             "ICFP  Artifacts": true,
             "ICFP  Papers": true,
+            "IWACO": false,
             "LMPL": false,
             "ML Family Workshop": false,
             "MPLR": false,
@@ -316,7 +317,8 @@
         },
         "FM": {
             "FM 2026": false,
-            "Research Paper": false
+            "Research Paper": false,
+            "Research Track": false
         },
         "SANER": {
             "Early Research Achievement (ERA) Track": false,
