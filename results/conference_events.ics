@@ -2,325 +2,325 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 15 Aug 2025\n        Track: SPLASH OOPSLA Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-oopsla-artifacts\n    
-DTEND:20250816T120000Z
-DTSTART:20250815T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH OOPSLA Artifacts - Notification Round 2
-UID:fb00374e-d4f6-4d40-a310-3d99077c3da4@fb00.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 11 Jul 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
-DTEND:20250712T120000Z
-DTSTART:20250711T120000Z
-SUMMARY:ICSME 2025 - Doctoral Symposium - Author Notification
-UID:0d7e1b07-23ec-4641-8f7c-9a4c3b0ec762@0d7e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 18 Jul 2025\n        Track: SAS  Artifact\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/sas-2025-sas-artifact\n    
-DTEND:20250719T120000Z
-DTSTART:20250718T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS  Artifact - Notification
-UID:56e36b0f-e8ed-4dea-9775-5fbc11107dc8@56e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 12 Jun 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
-DTEND:20250613T120000Z
-DTSTART:20250612T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Deadline for Submitting Revisions
-UID:95df4c88-fbb6-4679-bd6a-86f72cb944cc@95df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
-DTEND:20250728T120000Z
-DTSTART:20250727T120000Z
-SUMMARY:ICSME 2025 - Industry Track - Camera-ready Submission for Papers and 1-Pager Talks
-UID:5b526ed4-fbd5-44f0-80fd-e579d888d76e@5b52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Wed 15 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20251016T120000Z
-DTSTART:20251013T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:6ff1a250-1e92-4b21-8c30-ac803f10bcde@6ff1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 11 May 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
-DTEND:20250512T120000Z
-DTSTART:20250511T120000Z
-SUMMARY:ICSME 2025 - Industry Track - Paper Abstract Submission
-UID:f003cb06-02fd-4b6a-ad7e-34f537d59d69@f003.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Wed 7 May 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
-DTEND:20250508T120000Z
-DTSTART:20250507T120000Z
-SUMMARY:ICSME 2025 - Research Papers Track - Early Decisions Notification
-UID:c386e8b0-2d35-4046-ac58-a671fb778b48@c386.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Sun 11 May 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20250512T120000Z
-DTSTART:20250511T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Paper Submission
-UID:7642a21c-29aa-4985-b7b3-f82085b21f96@7642.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 11 Jul 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
-DTEND:20250712T120000Z
-DTSTART:20250711T120000Z
-SUMMARY:ICSME 2025 - NIER Track - Author Notification
-UID:35f3c601-4388-4aa9-a4a2-33b58060c04a@35f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Tue 12 Aug 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
-DTEND:20250813T120000Z
-DTSTART:20250812T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Notification
-UID:7569b3c1-a079-4816-a9bb-8022924ac32c@7569.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 23 May 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
-DTEND:20250524T120000Z
-DTSTART:20250523T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Notification of Conditional Acceptance
-UID:a1e33a35-1513-4b8d-86ac-11acbf64b6a0@a1e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Mon 7 Jul 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
-DTEND:20250708T120000Z
-DTSTART:20250707T120000Z
-SUMMARY:ICSME 2025 - Tool Demonstration Track - Author Notification
-UID:b73bc283-2ebb-4b52-b3d3-f0fff8ac4834@b73b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 29 May 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
-DTEND:20250530T120000Z
-DTSTART:20250529T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Artifact registration
-UID:363aaac5-75af-4a90-8a60-ee907eed32f6@363a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 20 Jun 2025\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first\n    
-DTEND:20250621T120000Z
-DTSTART:20250620T120000Z
-SUMMARY:ICSME 2025 - Journal First Track - Author Notification
-UID:032c1767-e27e-49dc-a6f7-3971bf680a87@032c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 16 Jun - Wed 18 Jun 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20250619T120000Z
-DTSTART:20250616T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Author Response
-UID:9250558a-0913-4921-8e4a-3e845f75881e@9250.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 5 Jun 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
-DTEND:20250606T120000Z
-DTSTART:20250605T120000Z
-SUMMARY:ICSME 2025 - Research Papers Track - Final Notification
-UID:1198e532-dfed-4b1e-b196-aa66741a2812@1198.org
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 23 - Wed 25 Jun 2025\n        Track: SAS  Artifact\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/sas-2025-sas-artifact\n    
+DTEND:20250626T120000Z
+DTSTART:20250623T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS  Artifact - Author Response
+UID:a4132f95-977a-419f-b373-aebc1d1324ed@a413.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 5 Jun 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
 DTEND:20250606T120000Z
 DTSTART:20250605T120000Z
 SUMMARY:ICSME 2025 - Industry Track - Talk Proposal Submission
-UID:52defea7-6b6a-4aed-9e17-00bc3b6a6c8d@52de.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 12 Jun 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
-DTEND:20250613T120000Z
-DTSTART:20250612T120000Z
-SUMMARY:ICSME 2025 - Doctoral Symposium - Paper Submission
-UID:bf3aad23-9189-40cf-bda0-e1a585fcf5a6@bf3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 11 Aug 2025\n        Track: SPLASH Onward! Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-Onward-papers\n    
-DTEND:20250812T120000Z
-DTSTART:20250811T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH Onward! Papers - Final notification
-UID:de02bdad-29e2-4479-a4a6-b20586e0b3cb@de02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 23 - Wed 25 Jun 2025\n        Track: SAS  Artifact\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/sas-2025-sas-artifact\n    
-DTEND:20250626T120000Z
-DTSTART:20250623T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS  Artifact - Author Response
-UID:3f408322-4699-40d5-be44-5db17878c933@3f40.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
-DTEND:20250728T120000Z
-DTSTART:20250727T120000Z
-SUMMARY:ICSME 2025 - Research Papers Track - Camera-ready Submission
-UID:4f45c141-f3b9-4325-b112-133e8ab4613c@4f45.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 13 Jun 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
-DTEND:20250614T120000Z
-DTSTART:20250613T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Artifact submission
-UID:64f04514-648b-4200-a695-830af91f11de@64f0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 18 Jul 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
-DTEND:20250719T120000Z
-DTSTART:20250718T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Final decision
-UID:ef61aef3-0bba-4ace-8322-c8df64273f2e@ef61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 30 Jun 12:00 - Fri 11 Jul 12:00 2025\n        Track: SPLASH OOPSLA Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-oopsla-artifacts\n    
-DTEND:20250712T000100Z
-DTSTART:20250701T000000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH OOPSLA Artifacts - Kick-the-Tires Round 2
-UID:786a9507-95e4-4cf9-9758-afc5fb533c8c@786a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 11 Jul 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20250712T120000Z
-DTSTART:20250711T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Notification
-UID:97a925ed-02e0-4f75-bcd6-de69db65475d@97a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 25 Aug 2025\n        Track: SPLASH Onward! Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-Onward-papers\n    
-DTEND:20250826T120000Z
-DTSTART:20250825T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH Onward! Papers - Camera-ready deadline
-UID:2a207955-f8bb-4e25-af82-b713850a1ba4@2a20.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 6 Jun 2025\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first\n    
-DTEND:20250607T120000Z
-DTSTART:20250606T120000Z
-SUMMARY:ICSME 2025 - Journal First Track - Paper Submission
-UID:f6e0a564-450c-40e8-8bf2-ec3263bcf96b@f6e0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 8 May 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-splash-2025-workshops\n    
-DTEND:20250509T120000Z
-DTSTART:20250508T120000Z
-SUMMARY:ICFP/SPLASH 2025 - Workshops - Tutorials Proposal Submission
-UID:d415147a-e17e-4254-a0e0-e79254a6c39e@d415.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
-DTEND:20250728T120000Z
-DTSTART:20250727T120000Z
-SUMMARY:ICSME 2025 - NIER Track - Camera-ready Submission
-UID:707053f2-1394-4e42-82be-02da6de9d4d7@7070.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
-DTEND:20250728T120000Z
-DTSTART:20250727T120000Z
-SUMMARY:ICSME 2025 - Tool Demonstration Track - Camera-ready Submission
-UID:d9c679c5-adc1-469d-accd-f4b45ff3f546@d9c6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Tue 8 Jul 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
-DTEND:20250709T120000Z
-DTSTART:20250708T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Submission deadline
-UID:c1d67fa8-04c2-452f-bc31-f893dd745327@c1d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Mon 30 Jun 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
-DTEND:20250701T120000Z
-DTSTART:20250630T120000Z
-SUMMARY:ICSME 2025 - Industry Track - Paper and Talk Proposal Notification
-UID:8cb530f1-bb65-45ad-aca3-1a1c642e0fdc@8cb5.org
+UID:a5efe7f0-e17c-4c7f-969c-5cf364b17000@a5ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 6 Jun 2025\n        Track: SPLASH Onward! Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-Onward-papers\n    
 DTEND:20250607T120000Z
 DTSTART:20250606T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SPLASH Onward! Papers - First-round notification
-UID:3e6fcd59-c171-4605-b9bf-2ace4fb8c09f@3e6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
-DTEND:20250728T120000Z
-DTSTART:20250727T120000Z
-SUMMARY:ICSME 2025 - Doctoral Symposium - Camera-ready Submission
-UID:b6353b56-0442-4fab-923f-3ca6c61a41c9@b635.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 18 May 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
-DTEND:20250519T120000Z
-DTSTART:20250518T120000Z
-SUMMARY:ICSME 2025 - Industry Track - Paper Submission
-UID:1f661cca-3cf9-466a-9b9a-c1872778bc6f@1f66.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 27 Jun 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
-DTEND:20250628T120000Z
-DTSTART:20250627T120000Z
-SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Final Decision Notification
-UID:bad693ff-606f-4292-937d-1120ba3566f2@bad6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 30 May 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
-DTEND:20250531T120000Z
-DTSTART:20250530T120000Z
-SUMMARY:ICSME 2025 - NIER Track - Abstract Submission
-UID:c31cfcbc-2db9-4748-bfb9-361ffcfbf50c@c31c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Sun 18 May 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20250519T120000Z
-DTSTART:20250518T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Artifact Submission
-UID:e3f55ec8-4a76-490f-80a2-220ccfb0097f@e3f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 31 Jul 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20250801T120000Z
-DTSTART:20250731T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Camera-Ready
-UID:d14613bb-0d5e-495f-b161-dfdfe14a9d09@d146.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 22 Aug 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
-DTEND:20250823T120000Z
-DTSTART:20250822T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Camera ready
-UID:eb705036-0b01-40f0-a3ba-bdafb4c2f85f@eb70.org
+UID:9ca6a048-3c46-44c0-b7ee-391f23e5d269@9ca6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 5 Jun 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
 DTEND:20250606T120000Z
 DTSTART:20250605T120000Z
 SUMMARY:ICSME 2025 - NIER Track - Paper Submission
-UID:88458908-9ce2-4838-9b3c-31917bd554df@8845.org
+UID:c2de11e1-e01b-4c0b-a001-2f93effacdad@c2de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 18 May 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
+DTEND:20250519T120000Z
+DTSTART:20250518T120000Z
+SUMMARY:ICSME 2025 - Industry Track - Paper Submission
+UID:cee6b55e-a083-48ed-b929-3e6a48f17633@cee6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 27 Jun 2025\n        Track: SPLASH OOPSLA Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-oopsla-artifacts\n    
 DTEND:20250628T120000Z
 DTSTART:20250627T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SPLASH OOPSLA Artifacts - Submission Round 2
-UID:c31ed707-2004-4273-81f5-1735e6b37b1a@c31e.org
+UID:90db617d-3375-4d63-affb-594ea14e9e6b@90db.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 29 May 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
-DTEND:20250530T120000Z
-DTSTART:20250529T120000Z
-SUMMARY:ICSME 2025 - Tool Demonstration Track - Paper Submission
-UID:6b8fbd8f-aaff-48e4-a794-721b92d1eea3@6b8f.org
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
+DTEND:20250728T120000Z
+DTSTART:20250727T120000Z
+SUMMARY:ICSME 2025 - NIER Track - Camera-ready Submission
+UID:0c378c95-9ca9-4b40-ae5b-ffaa88c44aae@0c37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 25 Aug 2025\n        Track: SPLASH Onward! Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-Onward-papers\n    
+DTEND:20250826T120000Z
+DTSTART:20250825T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH Onward! Papers - Camera-ready deadline
+UID:8b2a2dea-1d99-4a4c-8754-ae95eae36014@8b2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 5 Jun 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
+DTEND:20250606T120000Z
+DTSTART:20250605T120000Z
+SUMMARY:ICSME 2025 - Research Papers Track - Final Notification
+UID:ea470be1-7ee3-42f9-8826-40fbb8cdf2b1@ea47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Sun 18 May 2025\n        Track: SAS  Artifact\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/sas-2025-sas-artifact\n    
 DTEND:20250519T120000Z
 DTSTART:20250518T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SAS  Artifact - Artifact Submission
-UID:7ba870f7-1378-4ce4-a999-57b3be133546@7ba8.org
+UID:938f9479-64e1-4069-bcc0-78353f5c3d5c@938f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 23 May 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
+DTEND:20250524T120000Z
+DTSTART:20250523T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Notification of Conditional Acceptance
+UID:77ab7858-9826-45bd-b669-07b62b2fb71f@77ab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
+DTEND:20250728T120000Z
+DTSTART:20250727T120000Z
+SUMMARY:ICSME 2025 - Industry Track - Camera-ready Submission for Papers and 1-Pager Talks
+UID:f7f76759-1519-4b23-a72c-599780c1bc50@f7f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 29 May 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
+DTEND:20250530T120000Z
+DTSTART:20250529T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Artifact registration
+UID:dcb41142-f3ae-48ba-9043-2c316225c2b9@dcb4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 11 Jul 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20250712T120000Z
+DTSTART:20250711T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Notification
+UID:0dbd095b-5dd1-466b-935c-ed9ae5ed5a0a@0dbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Mon 7 Jul 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
+DTEND:20250708T120000Z
+DTSTART:20250707T120000Z
+SUMMARY:ICSME 2025 - Tool Demonstration Track - Author Notification
+UID:f113b8bf-c8a7-489b-a1fd-0747dd62b61b@f113.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 18 Jul 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
+DTEND:20250719T120000Z
+DTSTART:20250718T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Final decision
+UID:b4adef45-e698-4f72-bc12-edfa7f6f541d@b4ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 29 May 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
+DTEND:20250530T120000Z
+DTSTART:20250529T120000Z
+SUMMARY:ICSME 2025 - Tool Demonstration Track - Paper Submission
+UID:ded1b218-ed98-4af0-82b9-376c154d307b@ded1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 11 May 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
+DTEND:20250512T120000Z
+DTSTART:20250511T120000Z
+SUMMARY:ICSME 2025 - Industry Track - Paper Abstract Submission
+UID:6a139196-ea36-4793-8b45-75224c261343@6a13.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 11 Jul 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
 DTEND:20250712T120000Z
 DTSTART:20250711T120000Z
 SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Camera-Ready Deadline
-UID:b385ea8f-8db5-40bf-ac5a-bc603c77bc4f@b385.org
+UID:f28ed297-e5b8-41d3-adbd-1ecc2861ae3c@f28e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 13 Jun 2025\n        Track: ICFP  Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-artifacts\n    
+DTEND:20250614T120000Z
+DTSTART:20250613T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Artifacts - Artifact submission
+UID:17391253-309e-44cf-bae3-979098923b22@1739.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Sun 11 May 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20250512T120000Z
+DTSTART:20250511T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Paper Submission
+UID:d5892a5a-0002-43e0-b665-e243a1d98841@d589.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Thu 12 Jun 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
+DTEND:20250613T120000Z
+DTSTART:20250612T120000Z
+SUMMARY:ICSME 2025 - Doctoral Symposium - Paper Submission
+UID:8b45c744-f622-4fd0-8b3e-ca37c0159a06@8b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 8 May 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-splash-2025-workshops\n    
+DTEND:20250509T120000Z
+DTSTART:20250508T120000Z
+SUMMARY:ICFP/SPLASH 2025 - Workshops - Tutorials Proposal Submission
+UID:27885cfd-6bbd-4251-900d-a7ef6ac191c8@2788.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 27 Jun 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
+DTEND:20250628T120000Z
+DTSTART:20250627T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Final Decision Notification
+UID:3f951ce4-6a26-47a4-a9dd-3ee2d5496419@3f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 30 Jun 12:00 - Fri 11 Jul 12:00 2025\n        Track: SPLASH OOPSLA Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-oopsla-artifacts\n    
+DTEND:20250712T000100Z
+DTSTART:20250701T000000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH OOPSLA Artifacts - Kick-the-Tires Round 2
+UID:9462faec-381e-4624-94f1-5954c879b4a2@9462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 15 Aug 2025\n        Track: SPLASH OOPSLA Artifacts\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-oopsla-artifacts\n    
+DTEND:20250816T120000Z
+DTSTART:20250815T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH OOPSLA Artifacts - Notification Round 2
+UID:4de40981-9510-48f8-812c-e52caeae4a59@4de4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
+DTEND:20250728T120000Z
+DTSTART:20250727T120000Z
+SUMMARY:ICSME 2025 - Research Papers Track - Camera-ready Submission
+UID:a3cc5a9f-11df-4207-859f-237ee3c91824@a3cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 12 Jun 2025\n        Track: ICFP  Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/icfp-2025-papers\n    
+DTEND:20250613T120000Z
+DTSTART:20250612T120000Z
+SUMMARY:ICFP/SPLASH 2025 - ICFP  Papers - Deadline for Submitting Revisions
+UID:2f024afa-335c-4459-9b20-c593a5b398aa@2f02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Sun 18 May 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20250519T120000Z
+DTSTART:20250518T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Artifact Submission
+UID:774ab8ec-bdce-41c2-9baa-fa223e1583b6@774a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 11 Aug 2025\n        Track: SPLASH Onward! Papers\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-Onward-papers\n    
+DTEND:20250812T120000Z
+DTSTART:20250811T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH Onward! Papers - Final notification
+UID:d5d7c4c5-4136-4d36-b1bc-da5ea1547c91@d5d7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 18 Jul 2025\n        Track: SAS  Artifact\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/sas-2025-sas-artifact\n    
+DTEND:20250719T120000Z
+DTSTART:20250718T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS  Artifact - Notification
+UID:85f49826-f711-418f-8e12-fdf508e4abac@85f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 30 May 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
+DTEND:20250531T120000Z
+DTSTART:20250530T120000Z
+SUMMARY:ICSME 2025 - NIER Track - Abstract Submission
+UID:e88333a7-de0d-49e1-a858-2f81df82c6d7@e883.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Tue 12 Aug 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
+DTEND:20250813T120000Z
+DTSTART:20250812T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Notification
+UID:3f55a448-e7bc-4366-8d5f-3f17b3996e3f@3f55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Tool Demonstration Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-tool-demonstration\n    
+DTEND:20250728T120000Z
+DTSTART:20250727T120000Z
+SUMMARY:ICSME 2025 - Tool Demonstration Track - Camera-ready Submission
+UID:c292aee4-a149-4e1b-a6f6-f1056de8a66a@c292.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Mon 30 Jun 2025\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-industry-track\n    
+DTEND:20250701T120000Z
+DTSTART:20250630T120000Z
+SUMMARY:ICSME 2025 - Industry Track - Paper and Talk Proposal Notification
+UID:127cc282-c4bb-49b5-9e74-a8d3657ea3bb@127c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Thu 31 Jul 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20250801T120000Z
+DTSTART:20250731T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Camera-Ready
+UID:349ac291-bffd-4e40-81eb-9931c6c5793d@349a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Fri 22 Aug 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
+DTEND:20250823T120000Z
+DTSTART:20250822T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Camera ready
+UID:ae2e56d0-facc-4a82-a8c8-5eba64146cca@ae2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Wed 15 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20251016T120000Z
+DTSTART:20251013T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
+UID:2905ca78-c74c-442f-9726-dc1ce494c405@2905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Tue 8 Jul 2025\n        Track: SPLASH Student Research Competition\n        Event Link: https://conf.researchr.org/track/icfp-splash-2025/splash-2025-SRC\n    
+DTEND:20250709T120000Z
+DTSTART:20250708T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SPLASH Student Research Competition - Submission deadline
+UID:4195730c-ba0d-4678-beaf-d6b2b2a6d057@4195.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 16 Jun - Wed 18 Jun 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20250619T120000Z
+DTSTART:20250616T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Author Response
+UID:a2b90cae-9559-4871-89c9-4f848ac0089e@a2b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 11 Jul 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
+DTEND:20250712T120000Z
+DTSTART:20250711T120000Z
+SUMMARY:ICSME 2025 - Doctoral Symposium - Author Notification
+UID:9f77be57-00e8-4722-9ea0-3dc3845d8eca@9f77.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Sun 27 Jul 2025\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-doctoral-symposium\n    
+DTEND:20250728T120000Z
+DTSTART:20250727T120000Z
+SUMMARY:ICSME 2025 - Doctoral Symposium - Camera-ready Submission
+UID:59c12954-61c3-49fb-aa4d-011af62d3a0c@59c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Wed 7 May 2025\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-papers\n    
+DTEND:20250508T120000Z
+DTSTART:20250507T120000Z
+SUMMARY:ICSME 2025 - Research Papers Track - Early Decisions Notification
+UID:2a7049c8-84c9-46b5-84a7-f254081777cd@2a70.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 20 Jun 2025\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first\n    
+DTEND:20250621T120000Z
+DTSTART:20250620T120000Z
+SUMMARY:ICSME 2025 - Journal First Track - Author Notification
+UID:a6e886f5-b1b0-4652-9da4-4059195b0e75@a6e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 11 Jul 2025\n        Track: NIER Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-nier\n    
+DTEND:20250712T120000Z
+DTSTART:20250711T120000Z
+SUMMARY:ICSME 2025 - NIER Track - Author Notification
+UID:8174dc6d-fd61-4eb6-a362-94ab5198f017@8174.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2025\n        Conference Link: https://conf.researchr.org/home/icsme-2025\n        Date: Fri 6 Jun 2025\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2025/icsme-2025-journal-first\n    
+DTEND:20250607T120000Z
+DTSTART:20250606T120000Z
+SUMMARY:ICSME 2025 - Journal First Track - Paper Submission
+UID:0601799f-2f84-4d72-9904-11737445cc65@0601.org
 END:VEVENT
 END:VCALENDAR
