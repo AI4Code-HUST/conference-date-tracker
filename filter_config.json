@@ -42,7 +42,8 @@
             "Early Research Achievements (ERA)": false,
             "Research Papers": true,
             "Technical Track": false,
-            "Tool Demonstration": false
+            "Tool Demonstration": false,
+            "Workshops": false
         },
         "ASE": {
             "AIware Research Papers": false,
@@ -429,7 +430,9 @@
         "Camera-Ready Deadline Extended": false,
         "Camera-Ready Submission": false,
         "Camera-Ready Submission Deadline": true,
+        "Camera-Ready Submission Deadline (will be extended)": false,
         "Camera-Ready Version": true,
+        "Camera-Ready Version (will be extended)": false,
         "Camera-ready": true,
         "Camera-ready Deadline": false,
         "Camera-ready Submission": true,
@@ -525,6 +528,7 @@
         "Main Conference Paper": true,
         "New Idea Track Acceptance Notification": true,
         "New Idea Track Camera Ready": true,
+        "New Idea Track Camera Ready (will be extended)": false,
         "New Idea Track Submissions Deadline": true,
         "Non-archival Extended Abstract Submission": false,
         "Notification": true,
