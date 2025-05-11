@@ -195,7 +195,8 @@
             "SERP4IoT": false,
             "SESoS": true,
             "SRC - ACM Student Research Competition": true,
-            "TechDebt Industry Track": true
+            "TechDebt Industry Track": true,
+            "Workshops": false
         },
         "ICSME": {
             "Doctoral Symposium": true,
@@ -665,12 +666,18 @@
         "Workshop Paper Notification Deadline": true,
         "Workshop Paper Submission": false,
         "Workshop Paper Submission Deadline": true,
+        "Workshop Papers Acceptance Notification": false,
+        "Workshop Papers Submission Deadline for all Workshops": false,
+        "Workshop Papers info to Workshop Chairs & Web Chairs": false,
         "Workshop Papers info to workshop chairs & web chairs": true,
+        "Workshop Proposal Acceptance Notification": false,
         "Workshop Proposal Notification": false,
         "Workshop Proposal Submission": false,
+        "Workshop Proposal Submissions Deadline": false,
         "Workshop Proposal submissions deadline extended": true,
         "Workshop Proposals online": true,
         "Workshop Session": true,
+        "Workshop Websites Online": false,
         "Workshop call for papers and website ready": false,
         "Workshop date": true,
         "Workshop day": true,
