@@ -31,6 +31,7 @@
         "Requirements Engineering": false,
         "SANER": false,
         "STAF": false,
+        "Sun 6 July - Thu 9 July  FSE": false,
         "XP": false,
         "vlhcc": false
     },
@@ -39,11 +40,13 @@
             "Research Papers": true
         },
         "APSEC": {
+            "Doctoral Symposium": false,
             "Early Research Achievements (ERA)": false,
             "Research Papers": true,
             "Software Engineering in Practices": false,
             "Technical Track": false,
             "Tool Demonstration": false,
+            "Tutorials": false,
             "Workshops": false
         },
         "ASE": {
@@ -342,7 +345,8 @@
             "Technical Papers": false,
             "Tutorials": false,
             "Workshops": false
-        }
+        },
+        "Sun 6 July - Thu 9 July  FSE": {}
     },
     "content_filter": {
         "Abstract": true,
