@@ -201,6 +201,7 @@
             "SERP4IoT": false,
             "SESoS": true,
             "SRC - ACM Student Research Competition": true,
+            "Software Engineering Education and Training (SEET)": false,
             "TechDebt Industry Track": true,
             "Workshops": false
         },
@@ -270,6 +271,8 @@
         "PROFES": {
             "Doctoral Symposium": true,
             "Industry Papers": false,
+            "International Workshop on Analytics for Software Product and Process Improvement": false,
+            "Promoting and Dealing with Advanced Technology in Healthcare": false,
             "Research Papers": false,
             "Short Papers and Posters": true,
             "Workshops and Tutorials": true
@@ -538,6 +541,8 @@
         "Kick-the-Tires Round 2": true,
         "Lighting Talks - Submission": false,
         "Lightning Talks - Notification": false,
+        "Live contest - solution submission": false,
+        "Live contest topic announcement": false,
         "Main Conference Paper": true,
         "New Idea Track Acceptance Notification": true,
         "New Idea Track Camera Ready": true,
@@ -608,6 +613,8 @@
         "Round 2 - Author Notification": true,
         "Round 2 - Paper Submission": true,
         "Round 2 - Submission of Revisions": true,
+        "SEET Acceptance Notification": false,
+        "SEET Submissions Deadline": false,
         "SLE Conference": false,
         "SRC Acceptance Notification": false,
         "SRC Camera Ready": false,
