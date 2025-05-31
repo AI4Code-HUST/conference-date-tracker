@@ -320,6 +320,7 @@
             "Research Workshops": true
         },
         "vlhcc": {
+            "Journal-First Presentations": false,
             "Posters and Showpieces": false,
             "Research Papers": true,
             "Workshops and Tutorials": false
@@ -608,6 +609,7 @@
         "Regular paper artifact submission deadline": false,
         "Resubmission of conditional accepts": false,
         "Reviews Due": false,
+        "Reviews Sent Back to Authors": false,
         "Revised Manuscript Submission (for major revisions only)": true,
         "Revised Manuscript Submissions (Major Revisions Only)": true,
         "Revised submission deadline": false,
