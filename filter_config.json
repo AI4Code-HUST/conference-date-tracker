@@ -184,6 +184,7 @@
             "AST": true,
             "Artifact Evaluation": true,
             "CHASE Doctoral and Early Career Symposium (DECS)": true,
+            "CHASE Research Track": false,
             "CSEE&T": true,
             "Demonstrations": false,
             "EnCyCriS": true,
@@ -205,6 +206,7 @@
             "SRC - ACM Student Research Competition": true,
             "Software Engineering Education and Training (SEET)": false,
             "TechDebt Industry Track": true,
+            "Tutorials and Technical Briefings": false,
             "Workshops": false
         },
         "ICSME": {
@@ -589,6 +591,7 @@
         "Paper submission deadline": true,
         "Paper submission extended deadline": true,
         "Paper/Poster Submission Deadline": true,
+        "Papers due": false,
         "Papers submission": true,
         "Participate in CHASE conference": true,
         "Poster Session Dates": false,
@@ -674,6 +677,9 @@
         "Technical Paper Presentation": false,
         "Tool paper artifact submission deadline": false,
         "Tool paper revised artifact submission deadline": false,
+        "Tutorial and Technical Briefings Abstracts Camera Ready": false,
+        "Tutorial and Technical Briefings Acceptance Notification": false,
+        "Tutorial and Technical Briefings Proposals Submissions Deadline": false,
         "Tutorial paper camera-ready": true,
         "Tutorial proposal notification": true,
         "Tutorial proposal submission": true,
