@@ -279,6 +279,7 @@
             "Industry Papers": false,
             "International Workshop on Analytics for Software Product and Process Improvement": false,
             "Promoting and Dealing with Advanced Technology in Healthcare": false,
+            "Quality Evaluation of ML-based Software Systems": false,
             "Research Papers": false,
             "Short Papers and Posters": true,
             "Workshops and Tutorials": true
@@ -589,6 +590,7 @@
         "Paper Submission deadline": true,
         "Paper abstract mandatory submission deadline": false,
         "Paper abstract submission": false,
+        "Paper acceptance notification": false,
         "Paper acceptance notification new date": true,
         "Paper and Talk Proposal Notification": true,
         "Paper deadline": false,
