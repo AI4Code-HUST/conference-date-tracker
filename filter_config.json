@@ -30,6 +30,7 @@
         "PROFES": false,
         "Requirements Engineering": false,
         "SANER": false,
+        "SPLASH/ISSTA": false,
         "STAF": false,
         "Sun 6 July - Thu 9 July  FSE": false,
         "XP": false,
@@ -359,7 +360,10 @@
             "Tutorials": false,
             "Workshops": false
         },
-        "Sun 6 July - Thu 9 July  FSE": {}
+        "Sun 6 July - Thu 9 July  FSE": {},
+        "SPLASH/ISSTA": {
+            "Doctoral symposium": false
+        }
     },
     "content_filter": {
         "Abstract": true,
@@ -664,6 +668,7 @@
         "Submission Registration Due": false,
         "Submission Round 2": true,
         "Submission deadline": true,
+        "Submission deadline (including support email)": false,
         "Submission deadline for talks": true,
         "Submission deadline for war stories": true,
         "Submission due": false,
