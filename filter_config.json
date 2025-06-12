@@ -45,6 +45,7 @@
             "Early Research Achievements (ERA)": false,
             "Research Papers": true,
             "Software Engineering in Practices": false,
+            "Software Engineering in Practices (SEIP)": false,
             "Technical Track": false,
             "Tool Demonstration": false,
             "Tutorials": false,
@@ -209,6 +210,7 @@
             "SRC - ACM Student Research Competition": true,
             "Software Engineering Education and Training (SEET)": false,
             "TechDebt Industry Track": true,
+            "Technical Debt Technical Papers": false,
             "Tutorials and Technical Briefings": false,
             "Workshops": false
         },
@@ -326,6 +328,7 @@
             "Research Workshops": true
         },
         "vlhcc": {
+            "Graduate Consortium": false,
             "Journal-First Presentations": false,
             "Posters and Showpieces": false,
             "Research Papers": true,
@@ -482,6 +485,7 @@
         "Conference Date": true,
         "Conference Dates": true,
         "Conference dates": true,
+        "Consortium date": false,
         "Date of the workshop": true,
         "Dates": false,
         "Deadline for Submitting Revisions": true,
