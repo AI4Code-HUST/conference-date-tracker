@@ -185,6 +185,7 @@
         "ICSE": {
             "AST": true,
             "Artifact Evaluation": true,
+            "CAIN Research Track": false,
             "CHASE Doctoral and Early Career Symposium (DECS)": true,
             "CHASE Research Track": false,
             "CSEE&T": true,
@@ -370,6 +371,7 @@
     },
     "content_filter": {
         "Abstract": true,
+        "Abstract (Recommended; used for bidding)": false,
         "Abstract (mandatory)": true,
         "Abstract + Paper submission deadline": false,
         "Abstract Deadline": false,
