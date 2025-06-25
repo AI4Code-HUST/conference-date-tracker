@@ -54,6 +54,7 @@
             "Workshops": false
         },
         "ASE": {
+            "AIware ArXiv Track": false,
             "AIware Main Track": false,
             "AIware Research Papers": false,
             "Doctoral Symposium": false,
