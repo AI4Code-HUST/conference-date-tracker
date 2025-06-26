@@ -561,6 +561,7 @@
         "ITEQS 2025 Workshop": true,
         "Initial Author Notification (most cases)": false,
         "Initial Notification": true,
+        "Initial notification": false,
         "Initial report submission": false,
         "Intent Registration (Optional)": false,
         "Journal first acceptance notification": true,
