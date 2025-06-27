@@ -19,6 +19,7 @@
         "FSE": false,
         "FSEN": false,
         "ICFP/SPLASH": true,
+        "ICSA": false,
         "ICSE": false,
         "ICSME": true,
         "ICST": true,
@@ -183,6 +184,7 @@
             "The Scala Workshop": false,
             "TyDe": false,
             "VMIL": false,
+            "WebAssembly Workshop": false,
             "Workshops": true,
             "miniKanren and Relational Programming Workshop": false
         },
@@ -372,6 +374,18 @@
         "Sun 6 July - Thu 9 July  FSE": {},
         "SPLASH/ISSTA": {
             "Doctoral symposium": false
+        },
+        "ICSA": {
+            "Artifacts Evaluation": false,
+            "Early Career": false,
+            "Journal First": false,
+            "New and Emerging Ideas": false,
+            "Posters": false,
+            "Research Papers": false,
+            "Software Architecture in Practice": false,
+            "Tutorials/Tech Briefings": false,
+            "Working Sessions": false,
+            "Workshops": false
         }
     },
     "content_filter": {
@@ -401,6 +415,8 @@
         "Acceptance Deadlines": true,
         "Acceptance Notificaiton": false,
         "Acceptance Notification": false,
+        "Acceptance Notification for Papers": false,
+        "Acceptance Notification for Proposals": false,
         "Acceptance Notification of ACM TOSEM papers": true,
         "Acceptance notification": true,
         "Acceptance notifications": false,
@@ -557,6 +573,7 @@
         "Full paper": true,
         "Full paper submission": false,
         "Full paper submission to EMSE": false,
+        "Full papers": false,
         "Full-Paper Submission": true,
         "ITEQS 2025 Workshop": true,
         "Initial Author Notification (most cases)": false,
@@ -615,6 +632,7 @@
         "Paper submission": true,
         "Paper submission deadline": true,
         "Paper submission extended deadline": true,
+        "Paper submissions": false,
         "Paper/Poster Submission Deadline": true,
         "Papers due": false,
         "Papers submission": true,
@@ -748,6 +766,7 @@
         "Workshop Proposal Submission": false,
         "Workshop Proposal Submissions Deadline": false,
         "Workshop Proposal submissions deadline extended": true,
+        "Workshop Proposals": false,
         "Workshop Proposals online": true,
         "Workshop Session": true,
         "Workshop Websites Online": false,
