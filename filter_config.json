@@ -686,6 +686,7 @@
         "Second Cycle Notification of Acceptance (Major Revision)": false,
         "Second Cycle Submission Deadline": false,
         "Second Cycle: (Mandatory) Abstract": true,
+        "Second Cycle: (Optional) Abstract": false,
         "Second Cycle: Author response period (3 days)": true,
         "Second Cycle: Camera-ready (of accepted revised papers)": true,
         "Second Cycle: Final decision (of revised papers)": true,
