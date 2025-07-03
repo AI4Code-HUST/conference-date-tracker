@@ -185,6 +185,7 @@
             "The Scala Workshop": false,
             "TyDe": false,
             "VMIL": false,
+            "Volunteers": false,
             "WebAssembly Workshop": false,
             "Workshops": true,
             "miniKanren and Relational Programming Workshop": false
@@ -426,6 +427,7 @@
         "Accepted RR reports must be submitted to arXiv": false,
         "Advertisement Material": false,
         "Agile MDE Workshop": false,
+        "Application Deadline": false,
         "Application Notification": true,
         "Application Submission": true,
         "Application deadline": true,
@@ -752,6 +754,7 @@
         "Tutorials and Workshops": false,
         "Two page abstract submission (presentation only)": false,
         "Virtual DECS sessions": true,
+        "Volunteer Applications Open": false,
         "Workshop": true,
         "Workshop CfP ready": true,
         "Workshop Date": true,
