@@ -724,6 +724,7 @@
         "Submission Round 2": true,
         "Submission deadline": true,
         "Submission deadline (including support email)": false,
+        "Submission deadline (updated)": false,
         "Submission deadline for talks": true,
         "Submission deadline for war stories": true,
         "Submission due": false,
