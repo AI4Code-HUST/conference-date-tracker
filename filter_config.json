@@ -231,6 +231,7 @@
             "Workshops": false
         },
         "ICSME": {
+            "Artifact Evaluation / ROSE": false,
             "Doctoral Symposium": true,
             "Industry Track": true,
             "Journal First Track": true,
