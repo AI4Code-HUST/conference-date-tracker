@@ -212,9 +212,11 @@
             "CAIN Doctoral Symposium": false,
             "CAIN Industry Track": false,
             "CAIN Journal First": false,
+            "CAIN Journal-First Track": false,
             "CAIN Posters": false,
             "CAIN Research Track": false,
             "CHASE Doctoral and Early Career Symposium (DECS)": true,
+            "CHASE Lightning Talk Track": false,
             "CHASE Research Track": false,
             "CHASE Voices of the Industry Track": false,
             "CSEE&T": true,
@@ -416,7 +418,8 @@
             "Research Paper": false,
             "Research Track": false,
             "TAP Track": false,
-            "Tutorials": false
+            "Tutorials": false,
+            "Workshops": false
         },
         "SANER": {
             "Early Research Achievement (ERA) Track": false,
@@ -723,6 +726,7 @@
         "Non-archival Extended Abstract Submission": false,
         "Notification": true,
         "Notification Date": false,
+        "Notification Date for Panelists": false,
         "Notification Deadline": true,
         "Notification Round 1": true,
         "Notification Round 2": true,
