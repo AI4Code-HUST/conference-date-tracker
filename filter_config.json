@@ -285,6 +285,7 @@
             "Tutorials and Technical Briefings": false,
             "UISE": false,
             "WETSEB": false,
+            "WSESE": false,
             "Workshops": false
         },
         "ICSME": {
@@ -438,6 +439,7 @@
         "CASCON": {
             "Artifacts": false,
             "GEMinAI": false,
+            "LMD": false,
             "Posters": false,
             "Technical Papers": false,
             "Tutorials": false,
@@ -819,6 +821,7 @@
         "Release of shadow PC reviews to the authors": false,
         "Response letter and revised report submission": false,
         "Resubmission of conditional accepts": false,
+        "Review Deadline": false,
         "Reviews Due": false,
         "Reviews Sent Back to Authors": false,
         "Revised Manuscript Submission (for major revisions only)": true,
