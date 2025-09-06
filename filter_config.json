@@ -221,6 +221,7 @@
             "CHASE Research Track": false,
             "CHASE Voices of the Industry Track": false,
             "CSEE&T": true,
+            "DSE": false,
             "DSE-": false,
             "DeepTest": false,
             "Demonstrations": false,
@@ -419,6 +420,7 @@
             "Research and Tool Papers": false
         },
         "FM": {
+            "Doctoral Symposium": false,
             "FM 2026": false,
             "Research Paper": false,
             "Research Track": false,
@@ -915,6 +917,7 @@
         "Submissions Due": true,
         "Submissions Due (TBU)": false,
         "Submissions Due (dummy)": true,
+        "Submissions open": false,
         "Symposium": false,
         "Synchronous Zoom meetings to discuss reviews": false,
         "Talk Proposal Submission": true,
