@@ -35,6 +35,7 @@
         "SPLASH/ISSTA": false,
         "STAF": false,
         "Sun 6 July - Thu 9 July  FSE": false,
+        "VARIABILITY": false,
         "XP": false,
         "vlhcc": false
     },
@@ -66,6 +67,7 @@
             "Industry Showcase": false,
             "Journal-First Track": false,
             "NIER Track": true,
+            "New Faculty Symposium": false,
             "Research Papers": true,
             "SSBSE  Challenge": false,
             "SSBSE Hot-off-the-Press": false,
@@ -476,6 +478,9 @@
             "CGO Workshops and Tutorials": false,
             "PPoPP Main Conference": false,
             "PPoPP Workshops and Tutorials": false
+        },
+        "VARIABILITY": {
+            "Research Papers": false
         }
     },
     "content_filter": {
@@ -593,6 +598,8 @@
         "Camera-Ready": true,
         "Camera-Ready Deadline": true,
         "Camera-Ready Deadline Extended": false,
+        "Camera-Ready Deadline of accepted revised papers and directly accepted papers": false,
+        "Camera-Ready Deadline of directly accepted papers": false,
         "Camera-Ready Submission": false,
         "Camera-Ready Submission Deadline": true,
         "Camera-Ready Submission Deadline (will be extended)": false,
@@ -730,6 +737,7 @@
         "MSR Review Tutorial": false,
         "Main Conference Paper": true,
         "Major Revision Submission": false,
+        "New Faculty Symposium": false,
         "New Idea Track Acceptance Notification": true,
         "New Idea Track Camera Ready": true,
         "New Idea Track Camera Ready (will be extended)": false,
@@ -750,6 +758,7 @@
         "Notification of Acceptance for Community Debate": false,
         "Notification of Acceptance of Community Debate Position": false,
         "Notification of Acceptance/Rejection": false,
+        "Notification of Acceptance/Revisions": false,
         "Notification of Accepted Solution papers": false,
         "Notification of Authors": false,
         "Notification of Conditional Acceptance": true,
@@ -863,6 +872,8 @@
         "Second Cycle: Notification": true,
         "Second Cycle: Revision due": true,
         "Second Cycle: Submission": true,
+        "Second Notification of Acceptance": false,
+        "Second Paper Submission Deadline": false,
         "Second Round Submission (Authors submit rebuttal & revised report)": false,
         "Second Round Submission Camera Ready Version": false,
         "Second Round Submission Deadline": false,
