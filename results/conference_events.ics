@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
-DTEND:20251220T120000Z
-DTSTART:20251219T120000Z
-SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:148d0870-4552-4abf-8369-f76d654de1c9@148d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Tue 14 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
 DTEND:20251015T120000Z
 DTSTART:20251013T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:d83c03e3-25ad-45b4-bbf4-503dfcb95882@d83c.org
+UID:b0404b37-f0ae-48ee-949d-b13d561a3368@b040.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
+DTEND:20251220T120000Z
+DTSTART:20251219T120000Z
+SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
+UID:634af25c-3010-44f3-ad40-8ac2a1388f1a@634a.org
 END:VEVENT
 END:VCALENDAR
