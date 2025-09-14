@@ -457,6 +457,7 @@
         "SPLASH/ISSTA": {
             "Doctoral symposium": false,
             "ISSTA Research papers": false,
+            "Posters and Tool Demonstrations": false,
             "SPLASH Artifact evaluation": false,
             "SPLASH OOPSLA": false,
             "Workshops": false
@@ -824,6 +825,7 @@
         "Phase 2: Review due": false,
         "Phrase 3: Reviews due": false,
         "Position papers due": false,
+        "Poster Registration (OOPSLA/Onward!/ISSTA accepted papers)": false,
         "Poster Registration for Works Accepted by OOPSLA and Onward!": false,
         "Poster Session Dates": false,
         "Poster Submission": false,
