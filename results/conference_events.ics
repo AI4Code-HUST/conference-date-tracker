@@ -2,17 +2,17 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Tue 14 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20251015T120000Z
-DTSTART:20251013T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:3fc6ebe5-51d5-4138-a4a0-6761d03aa837@3fc6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:bdfb8339-ce6e-4c3d-bda3-7fe3f95213c4@bdfb.org
+UID:332c40c7-94e2-437e-8c90-e150aa75d811@332c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Tue 14 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
+DTEND:20251015T120000Z
+DTSTART:20251013T120000Z
+SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
+UID:3a3ec319-a46b-4303-bff6-36d541e5d051@3a3e.org
 END:VEVENT
 END:VCALENDAR
