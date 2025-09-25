@@ -6,13 +6,13 @@ DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://c
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:332c40c7-94e2-437e-8c90-e150aa75d811@332c.org
+UID:ab37c966-666b-4d7a-9268-e349efcbba1e@ab37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Tue 14 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
 DTEND:20251015T120000Z
 DTSTART:20251013T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:3a3ec319-a46b-4303-bff6-36d541e5d051@3a3e.org
+UID:77bac1c4-b495-4000-8381-f6dab2e5647f@77ba.org
 END:VEVENT
 END:VCALENDAR
