@@ -151,6 +151,7 @@
         "FSE": {
             "2030 Software Engineering": true,
             "AI IDE": true,
+            "Artifacts": false,
             "Demonstrations": true,
             "Doctoral Symposium": true,
             "Ideas, Visions and Reflections": true,
