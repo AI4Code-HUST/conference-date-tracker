@@ -489,6 +489,7 @@
             "Workshops": false
         },
         "HPCA/PPoPP/CGO/CC": {
+            "CC": false,
             "CGO Artifact Evaluation": false,
             "CGO Main Conference": false,
             "CGO Workshops and Tutorials": false,
@@ -841,6 +842,7 @@
         "Paper and Talk Proposal Notification": true,
         "Paper deadline": false,
         "Paper notification": false,
+        "Paper notifications": false,
         "Paper submission": true,
         "Paper submission Deadline": false,
         "Paper submission deadline": true,
