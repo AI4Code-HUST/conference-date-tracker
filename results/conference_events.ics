@@ -6,20 +6,20 @@ DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: htt
 DTEND:20251015T120000Z
 DTSTART:20251013T120000Z
 SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:e657b11d-8503-436a-8bdf-62f16e50b2cc@e657.org
+UID:f3c05d58-17e4-42ac-af5c-70c266180b20@f3c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
 DTEND:20260328T120000Z
 DTSTART:20260327T120000Z
 SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
-UID:3d01479a-ee9a-4a1f-8a41-d116a4cad83e@3d01.org
+UID:afc0a216-9f70-4de1-a00f-52b445bde315@afc0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:93c582b9-1f11-4499-a538-fb79c52990ef@93c5.org
+UID:23674e2d-d98f-444a-9153-86a9079268ef@2367.org
 END:VEVENT
 END:VCALENDAR

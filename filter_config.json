@@ -408,7 +408,8 @@
             "OCL": true,
             "OOPSLE": false,
             "SLE": true,
-            "TTC": true
+            "TTC": true,
+            "Workshops": false
         },
         "XP": {
             "AIandAgile": true,
