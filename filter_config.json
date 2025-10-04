@@ -345,6 +345,7 @@
         },
         "ISEC": {
             "Demo Papers": false,
+            "Doctoral Symposium": false,
             "Research Papers": false,
             "Tutorials and Workshops": true
         },
