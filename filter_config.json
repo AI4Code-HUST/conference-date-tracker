@@ -924,6 +924,8 @@
         "SRC Acceptance Notification": false,
         "SRC Camera Ready": false,
         "SRC Competition": true,
+        "SRC Poster Competition": false,
+        "SRC Presentation Competition": false,
         "SRC Submissions Deadline": false,
         "Second Cycle Notification of Acceptance": false,
         "Second Cycle Notification of Acceptance (Major Revision)": false,
