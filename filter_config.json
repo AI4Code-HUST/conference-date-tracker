@@ -500,6 +500,7 @@
             "PPoPP Workshops and Tutorials": false
         },
         "VARIABILITY": {
+            "Doctoral Symposium": false,
             "Research Papers": false
         }
     },
@@ -645,6 +646,7 @@
         "Camera-Ready Version (will be extended)": false,
         "Camera-Ready for Abstracts of Accepted Independent Posters": false,
         "Camera-ready": true,
+        "Camera-ready & author registration": false,
         "Camera-ready (new and revised submissions)": false,
         "Camera-ready Deadline": false,
         "Camera-ready Submission": true,
@@ -689,6 +691,8 @@
         "Doctoral Symposium submissions": true,
         "Doctoral Symposium submissions - new date": false,
         "Doctoral consortium": false,
+        "Doctoral symposium notification": false,
+        "Doctoral symposium submission": false,
         "Early Decisions Notification": true,
         "Early Registration Deadline": true,
         "Early Registration Deadline for Authors": false,
