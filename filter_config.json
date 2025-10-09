@@ -433,6 +433,7 @@
             "Workshops and Tutorials": false
         },
         "ATVA": {
+            "ATVA Papers": false,
             "Artifacts": false,
             "Research Papers": false,
             "Research and Tool Papers": false
@@ -460,6 +461,8 @@
         },
         "CASCON": {
             "11 Workshops": false,
+            "12 Workshops": false,
+            "24 Posters": false,
             "74 Technical Papers": false,
             "Artifacts": false,
             "GEMinAI": false,
@@ -563,7 +566,9 @@
         "Artifact Submission (Round 2)": false,
         "Artifact Submission Deadline": true,
         "Artifact registration": true,
+        "Artifact registration deadline": false,
         "Artifact submission": true,
+        "Artifact submissions deadline": false,
         "Author Notification": true,
         "Author Notification (Research papers)": false,
         "Author Notification (Round 1)": false,
@@ -693,6 +698,7 @@
         "Doctoral consortium": false,
         "Doctoral symposium notification": false,
         "Doctoral symposium submission": false,
+        "EEES 2026": false,
         "Early Decisions Notification": true,
         "Early Registration Deadline": true,
         "Early Registration Deadline for Authors": false,
@@ -908,6 +914,7 @@
         "Response letter and revised report submission": false,
         "Resubmission of conditional accepts": false,
         "Review Deadline": false,
+        "Review period (PC/authors discussion)": false,
         "Reviews Due": false,
         "Reviews Sent Back to Authors": false,
         "Revised Manuscript Submission (for major revisions only)": true,
