@@ -504,7 +504,8 @@
         },
         "VARIABILITY": {
             "Doctoral Symposium": false,
-            "Research Papers": false
+            "Research Papers": false,
+            "Tutorials": false
         }
     },
     "content_filter": {
@@ -739,6 +740,7 @@
         "Final paper submission (camera-ready)": true,
         "Final version (camera ready)": true,
         "Final version of paper due": false,
+        "Final version of the 1-page description for the proceedings": false,
         "Final vision report published": false,
         "First Cycle Conditional Acceptance Submission": false,
         "First Cycle Major Revision Submission": false,
@@ -1029,6 +1031,7 @@
         "Tool paper artifact submission deadline": false,
         "Tool paper revised artifact submission deadline": false,
         "Tutorial Notification": false,
+        "Tutorial Submission": false,
         "Tutorial Submission Deadline": false,
         "Tutorial and Technical Briefings Abstracts Camera Ready": false,
         "Tutorial and Technical Briefings Acceptance Notification": false,
