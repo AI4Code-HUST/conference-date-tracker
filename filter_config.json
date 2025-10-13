@@ -1017,6 +1017,7 @@
         "Submissions Due (TBU)": false,
         "Submissions Due (dummy)": true,
         "Submissions open": false,
+        "Summit date": false,
         "Survey released, Discord opened": false,
         "Survey results made public": false,
         "Symposium": false,
