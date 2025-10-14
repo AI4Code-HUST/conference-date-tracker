@@ -2,38 +2,31 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
-DTEND:20260410T120000Z
-DTSTART:20260409T120000Z
-SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
-UID:82321c1c-f37a-4031-b4e9-fe79764b0062@8232.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
-UID:ed988f6e-d2bd-4eab-9876-4625811d6ed4@ed98.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:9c254d7f-22d7-45e9-b75f-0fd98c1fe6bf@9c25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICFP/SPLASH 2025\n        Conference Link: https://conf.researchr.org/home/icfp-splash-2025\n        Date: Mon 13 - Tue 14 Oct 2025\n        Track: SAS\n        Event Link: https://conf.researchr.org/home/icfp-splash-2025/sas-2025\n    
-DTEND:20251015T120000Z
-DTSTART:20251013T120000Z
-SUMMARY:ICFP/SPLASH 2025 - SAS - Conference Date
-UID:c4ba989c-9f71-4eff-8f20-9074a5ff3e95@c4ba.org
+UID:44c1371c-47af-497d-b73c-be781e5d782e@44c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
 DTEND:20260403T120000Z
 DTSTART:20260402T120000Z
 SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
-UID:274bcb9b-3ebf-406e-b87a-ab75a61bc4f2@274b.org
+UID:1424335b-8d10-44cf-8f8c-13c2cc74a4b2@1424.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
+UID:59595855-8494-4e6f-b555-e14a7c2c790b@5959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
+DTEND:20260410T120000Z
+DTSTART:20260409T120000Z
+SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
+UID:e395e32c-cece-4618-a84b-31dc2324ea94@e395.org
 END:VEVENT
 END:VCALENDAR
