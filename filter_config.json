@@ -507,7 +507,8 @@
         "VARIABILITY": {
             "Doctoral Symposium": false,
             "Research Papers": false,
-            "Tutorials": false
+            "Tutorials": false,
+            "Workshops": false
         }
     },
     "content_filter": {
@@ -552,6 +553,7 @@
         "Accepted RR reports must be submitted to arXiv": false,
         "Accepted RR reports must be submitted to arXiv.": false,
         "Accepted RR submission": false,
+        "Address technical problems (light review)": false,
         "Advertisement Material": false,
         "Agile MDE Workshop": false,
         "Announcement of Junior PC Members": false,
@@ -745,6 +747,7 @@
         "Final paper submission (camera-ready)": true,
         "Final version (camera ready)": true,
         "Final version of paper due": false,
+        "Final version of papers and workshop summary and author registration": false,
         "Final version of the 1-page description for the proceedings": false,
         "Final vision report published": false,
         "First Cycle Conditional Acceptance Submission": false,
@@ -1115,6 +1118,7 @@
         "Workshop proposal acceptance new notification": true,
         "Workshop proposal notification": true,
         "Workshop proposal submission": true,
+        "Workshop proposals": false,
         "Workshop proposals due": false,
         "Workshop submission deadline": false,
         "Workshop summaries due": false,
