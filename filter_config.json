@@ -987,6 +987,7 @@
         "Submission (Round 2)": false,
         "Submission Deadline": true,
         "Submission Deadline (EXTENDED)": false,
+        "Submission Deadline (Extended))": false,
         "Submission Deadline (FIRM)": false,
         "Submission Deadline (Research papers)": false,
         "Submission Deadline (Work-in-Progress Papers)": false,
