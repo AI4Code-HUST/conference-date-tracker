@@ -503,6 +503,7 @@
             "CC Main Conference": false,
             "CGO Artifact Evaluation": false,
             "CGO Main Conference": false,
+            "CGO Student Research Competition": false,
             "CGO Workshops and Tutorials": false,
             "PPoPP Main Conference": false,
             "PPoPP Workshops and Tutorials": false
@@ -730,6 +731,7 @@
         "Extended Abstracts Camera Ready": false,
         "Extended Abstracts Submission Deadline": false,
         "Extended Abstracts Submission Deadline (extended)": false,
+        "Extended Paper Submission Deadline": false,
         "Extended Workshop Proposal submissions deadline": false,
         "Extended Workshop Proposals online": false,
         "Extended Workshop proposal acceptance new notification": false,
