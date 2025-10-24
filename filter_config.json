@@ -511,6 +511,7 @@
         "VARIABILITY": {
             "Demonstration and Tools": false,
             "Doctoral Symposium": false,
+            "Journal First": false,
             "Research Papers": false,
             "Tutorials": false,
             "Workshops": false
@@ -802,6 +803,9 @@
         "Journal Paper Submission": false,
         "Journal first acceptance notification": true,
         "Journal first submission deadline": true,
+        "Journal-First Acceptance Notification": false,
+        "Journal-First Camera-ready Deadline": false,
+        "Journal-First Submissions Deadline": false,
         "Junior PC Self-Nomination Deadline": false,
         "Keynote speaker published": false,
         "Kick-the-Tires (Round 1)": false,
