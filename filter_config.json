@@ -650,6 +650,7 @@
         "Camera Ready R2": false,
         "Camera Ready Submission": true,
         "Camera Ready Version": false,
+        "Camera Ready Version Deadline": false,
         "Camera Ready Version Submission": false,
         "Camera Ready [Papers]": false,
         "Camera ready": true,
