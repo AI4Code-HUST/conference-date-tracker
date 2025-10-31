@@ -425,7 +425,9 @@
             "AgilePR": true,
             "Experience Reports": true,
             "GoHyb": true,
+            "Industry & Practice": false,
             "Industry and Practice": true,
+            "Poster": false,
             "Posters": true,
             "Research Papers": true,
             "Research Workshops": true
@@ -513,6 +515,7 @@
         "VARIABILITY": {
             "Demonstration and Tools": false,
             "Doctoral Symposium": false,
+            "Industry Track": false,
             "Journal First": false,
             "Project Showcase": false,
             "Research Papers": false,
