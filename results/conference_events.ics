@@ -6,34 +6,34 @@ DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://c
 DTEND:20260328T120000Z
 DTSTART:20260327T120000Z
 SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
-UID:8a8ee6b4-45fc-4ce7-81a5-1a5f67968430@8a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Mon 20 Apr 2026\n        Track: Demonstrations and Posters\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-demonstrations-and-posters\n    
-DTEND:20260421T120000Z
-DTSTART:20260420T120000Z
-SUMMARY:ICT4S 2026 - Demonstrations and Posters - Acceptance notification
-UID:bd131afe-a86a-4a03-8b04-25cb0b6531e8@bd13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
-DTEND:20260410T120000Z
-DTSTART:20260409T120000Z
-SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
-UID:5382a3b0-4e50-44d3-8f2c-671e180ce540@5382.org
+UID:dfe6b9d4-6531-4cc4-9f2b-9d20873d6b0b@dfe6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
 DTEND:20260403T120000Z
 DTSTART:20260402T120000Z
 SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
-UID:43010db8-e16a-478c-85b7-74078adefe56@4301.org
+UID:62a558bd-3b9c-4017-932c-9baa6c791f5a@62a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
+DTEND:20260410T120000Z
+DTSTART:20260409T120000Z
+SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
+UID:30dc49c6-7f4c-48f8-bc9a-e1d59b1c2799@30dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Mon 20 Apr 2026\n        Track: Demonstrations and Posters\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-demonstrations-and-posters\n    
+DTEND:20260421T120000Z
+DTSTART:20260420T120000Z
+SUMMARY:ICT4S 2026 - Demonstrations and Posters - Acceptance notification
+UID:9d5d34e2-3113-41fe-b671-767b324ee21b@9d5d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:851e1aa0-cc81-4d87-83de-18e3327f7894@851e.org
+UID:7bbfc7e3-db53-4a48-a2a7-75ce2978c6ac@7bbf.org
 END:VEVENT
 END:VCALENDAR
