@@ -323,7 +323,8 @@
             "SCAM Engineering Track": false,
             "SCAM Research Track": false,
             "Technical Briefings": false,
-            "Tool Demonstration Track": true
+            "Tool Demonstration Track": true,
+            "Vision and Emerging Results Track": false
         },
         "ICST": {
             "A-MOST": true,
@@ -354,6 +355,7 @@
             "Demo Papers": false,
             "Doctoral Symposium": false,
             "Research Papers": false,
+            "Student Posters and Data Science Challenge": false,
             "Tutorials and Workshops": true
         },
         "ISSTA": {
@@ -714,6 +716,8 @@
         "Conference dates": true,
         "Confirmation Form Submission": false,
         "Consortium date": false,
+        "Data Science Challenge Acceptance Notification": false,
+        "Data Science Challenge Submissions Last Date": false,
         "Date of the workshop": true,
         "Dates": false,
         "Deadline for Submitting Revisions": true,
@@ -878,6 +882,7 @@
         "Notification to authors": true,
         "Notification to speakers": false,
         "Notifications": true,
+        "Notifications for Papers and Talks Proposals": false,
         "Notifications for revisions": false,
         "Notifications to authors": true,
         "OOPSLE 2025": false,
@@ -921,6 +926,7 @@
         "Phase 2: Review due": false,
         "Phrase 3: Reviews due": false,
         "Position papers due": false,
+        "Poster Abstract Submission Deadline:": false,
         "Poster Registration (OOPSLA/Onward!/ISSTA accepted papers)": false,
         "Poster Registration for Works Accepted by OOPSLA and Onward!": false,
         "Poster Session Dates": false,
@@ -1005,6 +1011,7 @@
         "Second Cycle: Submission": true,
         "Second Notification of Acceptance": false,
         "Second Paper Submission Deadline": false,
+        "Second Round - submission deadline": false,
         "Second Round Submission (Authors submit rebuttal & revised report)": false,
         "Second Round Submission Camera Ready Version": false,
         "Second Round Submission Deadline": false,
@@ -1015,6 +1022,7 @@
         "Self-nomination Closes": true,
         "Short paper submission": false,
         "Stage 1 notification": false,
+        "Students Posters Submission last date": false,
         "Submission": true,
         "Submission (Round 1)": false,
         "Submission (Round 2)": false,
