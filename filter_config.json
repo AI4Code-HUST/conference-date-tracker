@@ -324,6 +324,7 @@
             "SCAM Research Track": false,
             "Technical Briefings": false,
             "Tool Demonstration Track": true,
+            "Tool Demonstration and Data Showcase Track": false,
             "Vision and Emerging Results Track": false
         },
         "ICST": {
