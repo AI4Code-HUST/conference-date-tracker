@@ -167,6 +167,7 @@
             "PROMISE": true,
             "Posters": true,
             "Research Papers": true,
+            "SSBSE Research Papers": false,
             "Software Engineering Education": true,
             "Student Research Competition": true,
             "Student Volunteers": true,
