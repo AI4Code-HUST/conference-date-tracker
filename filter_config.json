@@ -320,6 +320,7 @@
             "Journal First Track": true,
             "NIER Track": true,
             "Registered Reports": false,
+            "Replication and Negative Results": false,
             "Research Papers Track": true,
             "SCAM Engineering Track": false,
             "SCAM Research Track": false,
@@ -889,6 +890,7 @@
         "Notification of acceptance and invitation to submit an extened version to eiter ACM TOSEM or IEEE TSE": false,
         "Notification of proposal acceptance": false,
         "Notification of workshop submitters": true,
+        "Notification to Authors": false,
         "Notification to authors": true,
         "Notification to speakers": false,
         "Notifications": true,
@@ -1199,6 +1201,9 @@
         "Workshop: Call for Proposals Submission": false,
         "Workshop: Proposal Notification": false,
         "Workshops Date": true,
-        "Worksop": true
+        "Worksop": true,
+        "[Tool Competition] Registration Deadline": false,
+        "[Tool Competition] Results Notification": false,
+        "[Tool Competition] Submission Deadline": false
     }
 }
