@@ -546,6 +546,7 @@
         "Abstract Due": true,
         "Abstract Submisison": false,
         "Abstract Submission": true,
+        "Abstract Submission (OPTIONAL)": false,
         "Abstract Submission (Optional and Encouraged)": false,
         "Abstract Submission (Research papers)": false,
         "Abstract Submission Deadline": true,
