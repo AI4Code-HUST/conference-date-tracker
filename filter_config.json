@@ -253,6 +253,7 @@
             "Gamify": true,
             "Gamify Gamification in Development + V & V": false,
             "ICPC Early Research Achievements (ERA)": false,
+            "ICPC Journal First": false,
             "ICPC Replications and Negative Results (RENE)": false,
             "ICPC Research Track": false,
             "ICPC Tool Demonstration": false,
@@ -346,7 +347,8 @@
             "SAFE-ML": true,
             "Short Papers, Vision and Emerging Results": true,
             "Special Issue": false,
-            "Testing Tools and Data Showcase": true
+            "Testing Tools and Data Showcase": true,
+            "Workshops": false
         },
         "ICT4S": {
             "Demonstrations and Posters": true,
@@ -1139,6 +1141,7 @@
         "Workshop Date": true,
         "Workshop Day": true,
         "Workshop Days": true,
+        "Workshop Notification": false,
         "Workshop Paper Camera Ready": false,
         "Workshop Paper Notification": false,
         "Workshop Paper Notification Deadline": true,
