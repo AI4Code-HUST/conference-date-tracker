@@ -711,6 +711,7 @@
         "Camera-ready short paper submission": false,
         "Camera-ready submission": true,
         "Camera-ready submission (all categories)": true,
+        "Camera-ready submission of experience reports": false,
         "Camera-ready version": true,
         "Camera-ready workshop copies": true,
         "Camera-ready workshop papers and copyright forms uploaded": false,
