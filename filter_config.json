@@ -328,7 +328,8 @@
             "Technical Briefings": false,
             "Tool Demonstration Track": true,
             "Tool Demonstration and Data Showcase Track": false,
-            "Vision and Emerging Results Track": false
+            "Vision and Emerging Results Track": false,
+            "Visions and Emerging Results Track": false
         },
         "ICST": {
             "A-MOST": true,
