@@ -2,101 +2,101 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Wed 3 Jun 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium\n    
-DTEND:20260604T120000Z
-DTSTART:20260603T120000Z
-SUMMARY:ICSME 2026 - Doctoral Symposium - Paper Submission
-UID:cd94eb70-060e-4c64-8f2f-725cbbd5fe83@cd94.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
-DTEND:20260530T120000Z
-DTSTART:20260529T120000Z
-SUMMARY:ICSME 2026 - Industry Track - Talk Proposal Submission
-UID:aebed9c2-4843-4869-9d9f-2aa8ad640066@aebe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260530T120000Z
-DTSTART:20260529T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Final Notification
-UID:dec106f6-2499-4ca5-8bae-e5310709f2ac@dec1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sat 6 Jun 2026\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-journal-first\n    
-DTEND:20260607T120000Z
-DTSTART:20260606T120000Z
-SUMMARY:ICSME 2026 - Journal First Track - Paper Submission Deadline
-UID:9c67e5ac-94ec-4ffb-8537-628b102bc30f@9c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 8 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
-DTEND:20260509T120000Z
-DTSTART:20260508T120000Z
-SUMMARY:ICSME 2026 - Industry Track - Paper Abstract Submission
-UID:369369ea-8f46-4d57-bcf6-30ffd7104e9d@3693.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 19 Dec 2025\n        Track: Workshops\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-workshops\n    
 DTEND:20251220T120000Z
 DTSTART:20251219T120000Z
 SUMMARY:ICT4S 2026 - Workshops - Acceptance notification
-UID:a29d90e2-c964-4200-a58d-7d6d84820415@a29d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 15 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
-DTEND:20260516T120000Z
-DTSTART:20260515T120000Z
-SUMMARY:ICSME 2026 - Industry Track - Paper Submission
-UID:288e5dcf-ff73-49f3-b86e-ffc02f4c18d9@288e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sun 3 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260504T120000Z
-DTSTART:20260503T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Early Decisions Notification
-UID:df7be635-2e40-4521-aebe-3eb5df801386@df7b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
-DTEND:20260403T120000Z
-DTSTART:20260402T120000Z
-SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
-UID:e6560e1c-ff9a-4f0b-a651-5bd76dbf501d@e656.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
-UID:2255baa9-6247-4090-968c-6602fd8460bb@2255.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 27 Feb 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260228T120000Z
-DTSTART:20260227T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Abstract Submission
-UID:a03b10b4-b6b5-47a8-a479-cd67a098a530@a03b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 6 Mar 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Paper Submission
-UID:5ba608d3-c7de-4ebe-b600-1e171524d075@5ba6.org
+UID:077face0-1a43-4ba7-8fb1-673db4dd8ecc@077f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Mon 20 Apr 2026\n        Track: Demonstrations and Posters\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-demonstrations-and-posters\n    
 DTEND:20260421T120000Z
 DTSTART:20260420T120000Z
 SUMMARY:ICT4S 2026 - Demonstrations and Posters - Acceptance notification
-UID:d113fb27-3da3-457b-8050-20fc0191d4b1@d113.org
+UID:6a84b336-d43b-42fc-94ec-885e17466017@6a84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
+DTEND:20260530T120000Z
+DTSTART:20260529T120000Z
+SUMMARY:ICSME 2026 - Industry Track - Talk Proposal Submission
+UID:2c42bd45-be3d-46f8-bb5e-de6ab7951356@2c42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
 DTEND:20260410T120000Z
 DTSTART:20260409T120000Z
 SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
-UID:a263efc7-2f2d-4d72-9248-81eee19b4f4a@a263.org
+UID:ca5b171e-ae8f-491c-a9ba-281b474ddbc7@ca5b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
+UID:fc9d0862-f999-415e-ae72-282eb3e5ba29@fc9d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 6 Mar 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Paper Submission
+UID:67f7bd56-e45a-4fb1-9c05-3be25fcc6676@67f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 15 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
+DTEND:20260516T120000Z
+DTSTART:20260515T120000Z
+SUMMARY:ICSME 2026 - Industry Track - Paper Submission
+UID:9b035c21-e60c-41d1-90d1-ffe8927778ba@9b03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 8 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
+DTEND:20260509T120000Z
+DTSTART:20260508T120000Z
+SUMMARY:ICSME 2026 - Industry Track - Paper Abstract Submission
+UID:4fb0ece4-2ce3-41ef-b8b0-2231763a8380@4fb0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260530T120000Z
+DTSTART:20260529T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Final Notification
+UID:0c333d69-277b-4b19-8881-4fb2240775a5@0c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Wed 3 Jun 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium\n    
+DTEND:20260604T120000Z
+DTSTART:20260603T120000Z
+SUMMARY:ICSME 2026 - Doctoral Symposium - Paper Submission
+UID:36efa187-7572-4727-8422-a5220b355ddd@36ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sat 6 Jun 2026\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-journal-first\n    
+DTEND:20260607T120000Z
+DTSTART:20260606T120000Z
+SUMMARY:ICSME 2026 - Journal First Track - Paper Submission Deadline
+UID:14ac25f0-8bbe-4e94-a737-7c14b8f9e53c@14ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 27 Feb 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260228T120000Z
+DTSTART:20260227T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Abstract Submission
+UID:e5266b3f-cab2-4b39-a8bd-af3ffce0efab@e526.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sun 3 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260504T120000Z
+DTSTART:20260503T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Early Decisions Notification
+UID:09891eb4-183e-4876-9b1b-b0f7d7c78e33@0989.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
+DTEND:20260403T120000Z
+DTSTART:20260402T120000Z
+SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
+UID:ac60cd60-66df-4c6b-9c2c-ea918f308322@ac60.org
 END:VEVENT
 END:VCALENDAR
