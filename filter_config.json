@@ -10,6 +10,7 @@
         "ASE": false,
         "ATVA": false,
         "CASCON": false,
+        "CBI & EDOC": false,
         "CISOSE": false,
         "CIbSE": false,
         "EASE": false,
@@ -543,6 +544,10 @@
             "Research Papers": false,
             "Tutorials": false,
             "Workshops": false
+        },
+        "CBI & EDOC": {
+            "CBI Research Papers": false,
+            "Workshops": false
         }
     },
     "content_filter": {
@@ -722,6 +727,7 @@
         "Camera-ready short paper submission": false,
         "Camera-ready submission": true,
         "Camera-ready submission (all categories)": true,
+        "Camera-ready submission deadline": false,
         "Camera-ready submission of experience reports": false,
         "Camera-ready version": true,
         "Camera-ready workshop copies": true,
@@ -907,6 +913,7 @@
         "Notification of acceptance": true,
         "Notification of acceptance and invitation to submit an extened version to eiter ACM TOSEM or IEEE TSE": false,
         "Notification of proposal acceptance": false,
+        "Notification of workshop acceptance": false,
         "Notification of workshop submitters": true,
         "Notification to Authors": false,
         "Notification to authors": true,
@@ -1218,6 +1225,7 @@
         "Workshop proposal acceptance new notification": true,
         "Workshop proposal notification": true,
         "Workshop proposal submission": true,
+        "Workshop proposal submission deadline": false,
         "Workshop proposals": false,
         "Workshop proposals due": false,
         "Workshop submission deadline": false,
