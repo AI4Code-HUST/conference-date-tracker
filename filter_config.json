@@ -118,6 +118,7 @@
             "Short Papers and Emerging Results": false,
             "Short Papers, Emerging Results": true,
             "Tutorials": true,
+            "VibeX": false,
             "Workshops": true
         },
         "ECSA": {
@@ -312,6 +313,7 @@
             "Student Mentoring Workshop (SMeW)": false,
             "Student Volunteers": false,
             "TechDebt Industry Track": true,
+            "TechDebt Journal First": false,
             "TechDebt Technical Papers": false,
             "Technical Debt Technical Papers": false,
             "Tutorials and Technical Briefings": false,
