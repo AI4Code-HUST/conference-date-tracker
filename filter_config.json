@@ -552,6 +552,7 @@
         },
         "CBI & EDOC": {
             "CBI Research Papers": false,
+            "EDOC Research Papers": false,
             "Workshops": false
         }
     },
@@ -837,6 +838,8 @@
         "First Round Submission Camera Ready Version": false,
         "First Round Submission Notification": false,
         "First feedback round": false,
+        "First submission deadline": false,
+        "First submission notification": false,
         "First-round Notification": false,
         "First-round notification": true,
         "FormaliSE 2025": true,
@@ -964,7 +967,9 @@
         "Papers Camera Ready": false,
         "Papers Camera Ready and Front Matter": false,
         "Papers Submission Deadline": false,
+        "Papers camera-ready": false,
         "Papers due": false,
+        "Papers notification": false,
         "Papers submission": true,
         "Participate in CHASE conference": true,
         "Peer reviews due": false,
@@ -1071,6 +1076,8 @@
         "Second Round Submission Camera Ready Version": false,
         "Second Round Submission Deadline": false,
         "Second Round Submission Notification": false,
+        "Second submission deadline": false,
+        "Second submission notification": false,
         "Second-round submission": true,
         "Self-Nomination Closes": false,
         "Self-Nomination Opens": false,
