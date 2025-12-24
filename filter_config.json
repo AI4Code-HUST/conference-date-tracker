@@ -553,6 +553,7 @@
         "CBI & EDOC": {
             "CBI Research Papers": false,
             "EDOC Research Papers": false,
+            "Tools & Demos": false,
             "Workshops": false
         }
     },
