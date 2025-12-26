@@ -708,6 +708,7 @@
         "Camera-Ready Deadline Extended": false,
         "Camera-Ready Deadline of accepted revised papers and directly accepted papers": false,
         "Camera-Ready Deadline of directly accepted papers": false,
+        "Camera-Ready Papers": false,
         "Camera-Ready Papers (all papers)": false,
         "Camera-Ready Submission": false,
         "Camera-Ready Submission Deadline": true,
