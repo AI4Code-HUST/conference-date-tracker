@@ -460,7 +460,13 @@
             "Poster": false,
             "Posters": true,
             "Research Papers": true,
-            "Research Workshops": true
+            "Research Workshops": true,
+            "WS: AI4TD": false,
+            "WS: ASEED-AI": false,
+            "WS: Agile PR": false,
+            "WS: GoHyb": false,
+            "WS: Human-AI Collab": false,
+            "WS: Patterns for GenAI": false
         },
         "vlhcc": {
             "Graduate Consortium": false,
