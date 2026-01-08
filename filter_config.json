@@ -562,6 +562,7 @@
         "CBI & EDOC": {
             "CBI Research Papers": false,
             "EDOC Research Papers": false,
+            "Industry & Impact": false,
             "Tools & Demos": false,
             "Workshops": false
         }
@@ -752,6 +753,8 @@
         "Camera-ready workshop copies": true,
         "Camera-ready workshop papers and copyright forms uploaded": false,
         "Camera\u2011ready Deadline": false,
+        "Challenge notification": false,
+        "Challenge submission": false,
         "Challenges Dissemination": false,
         "Competition date at FSE": false,
         "Competition proposals submission": false,
@@ -987,6 +990,8 @@
         "Phase 1: Review due": false,
         "Phase 2: Review due": false,
         "Phrase 3: Reviews due": false,
+        "Position paper notification": false,
+        "Position paper submission": false,
         "Position papers due": false,
         "Poster Abstract Submission Deadline": false,
         "Poster Abstract Submission Deadline:": false,
@@ -1056,6 +1061,7 @@
         "Round 2 - Paper Submission": true,
         "Round 2 - Revision Submission": false,
         "Round 2 - Submission of Revisions": true,
+        "Round table at conference": false,
         "SEET Acceptance Notification": false,
         "SEET Submissions Deadline": false,
         "SEIP Acceptance Notification": false,
@@ -1263,6 +1269,7 @@
         "Workshop/Tutorial Proposal Submission Deadline": false,
         "Workshop: Call for Proposals Submission": false,
         "Workshop: Proposal Notification": false,
+        "Workshops & Tutorials: Author Registration Deadline": false,
         "Workshops Date": true,
         "Worksop": true,
         "[Tool Competition] Registration Deadline": false,
