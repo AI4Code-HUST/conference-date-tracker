@@ -159,6 +159,7 @@
             "2030 Software Engineering": true,
             "AI IDE": true,
             "AIWARE Main Track": false,
+            "AIware Benchmark & Dataset Track": false,
             "AIware Main Track": false,
             "Artifacts": false,
             "Demonstrations": true,
@@ -361,6 +362,8 @@
             "Short Papers, Vision and Emerging Results": true,
             "Special Issue": false,
             "Testing Tools and Data Showcase": true,
+            "Tool Competition: Self-Driving Car Testing": false,
+            "Tool Competition: UAV Testing": false,
             "Workshops": false
         },
         "ICT4S": {
@@ -1174,6 +1177,9 @@
         "Technical Briefings Presentation (TBC)": false,
         "Technical Briefings Proposals Submission": false,
         "Technical Paper Presentation": false,
+        "Tool Paper Deadline": false,
+        "Tool Paper Submission": false,
+        "Tool Submission Deadline": false,
         "Tool paper artifact submission deadline": false,
         "Tool paper revised artifact submission deadline": false,
         "Tutorial Notification": false,
