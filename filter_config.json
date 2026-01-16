@@ -160,6 +160,7 @@
             "AI IDE": true,
             "AIWARE Main Track": false,
             "AIware Benchmark & Dataset Track": false,
+            "AIware FSE-AIWare Joint Competition": false,
             "AIware Main Track": false,
             "Artifacts": false,
             "Demonstrations": true,
@@ -572,6 +573,7 @@
         }
     },
     "content_filter": {
+        "AST conference": false,
         "Abstract": true,
         "Abstract (Mandatory; used for bidding)": false,
         "Abstract (Recommended; used for bidding)": false,
