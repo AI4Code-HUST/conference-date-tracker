@@ -567,6 +567,7 @@
         "CBI & EDOC": {
             "CBI Research Papers": false,
             "EDOC Research Papers": false,
+            "Forum": false,
             "Industry & Impact": false,
             "Tools & Demos": false,
             "Workshops": false
@@ -596,6 +597,7 @@
         "Abstract registration": false,
         "Abstract registration deadline": true,
         "Abstract submission": true,
+        "Abstract submission (Extended)": false,
         "Abstract submission (mandatory)": false,
         "Abstract submission (recommended)": false,
         "Abstract submission deadline": false,
@@ -977,6 +979,7 @@
         "Paper notification (all tracks)": false,
         "Paper notifications": false,
         "Paper submission": true,
+        "Paper submission (Extended)": false,
         "Paper submission Deadline": false,
         "Paper submission deadline": true,
         "Paper submission deadline (all tracks)": false,
