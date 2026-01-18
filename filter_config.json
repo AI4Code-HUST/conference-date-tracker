@@ -526,9 +526,12 @@
         "SPLASH/ISSTA": {
             "Doctoral symposium": false,
             "ISSTA Research papers": false,
+            "Posters": false,
             "Posters and Tool Demonstrations": false,
             "SPLASH Artifact evaluation": false,
             "SPLASH OOPSLA": false,
+            "Student Research Competition": false,
+            "Tool Demonstrations": false,
             "Workshops": false
         },
         "ICSA": {
