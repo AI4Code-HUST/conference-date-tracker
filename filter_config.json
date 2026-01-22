@@ -19,6 +19,7 @@
         "FM": false,
         "FSE": false,
         "FSEN": false,
+        "HARMONY": false,
         "HPCA/PPoPP/CGO/CC": false,
         "ICFP/SPLASH": true,
         "ICSA": false,
@@ -575,9 +576,13 @@
             "Industry & Impact": false,
             "Tools & Demos": false,
             "Workshops": false
+        },
+        "HARMONY": {
+            "HARMONY 2026": false
         }
     },
     "content_filter": {
+        "(Mandatory) Abstract": false,
         "AST conference": false,
         "Abstract": true,
         "Abstract (Mandatory; used for bidding)": false,
@@ -680,6 +685,7 @@
         "Author registration deadline": true,
         "Author response": false,
         "Author response period": false,
+        "Author response period (3 days)": false,
         "Author responses": true,
         "Author's Notification": true,
         "Author's Notifications": false,
@@ -742,6 +748,8 @@
         "Camera-ready": true,
         "Camera-ready & author registration": false,
         "Camera-ready (new and revised submissions)": false,
+        "Camera-ready (of accepted major revision papers)": false,
+        "Camera-ready (of directly accepted papers)": false,
         "Camera-ready (tentative)": false,
         "Camera-ready Deadline": false,
         "Camera-ready Submission": true,
@@ -840,6 +848,7 @@
         "Final Version": false,
         "Final copy of submission due": true,
         "Final decision": true,
+        "Final decision (of major revision papers)": false,
         "Final notification": true,
         "Final notification for major revisions": true,
         "Final paper": true,
@@ -882,6 +891,7 @@
         "Full paper submission to EMSE": false,
         "Full papers": false,
         "Full-Paper Submission": true,
+        "HARMONY workshop date": false,
         "ITEQS 2025 Workshop": true,
         "Independent Abstract / Poster Submission": false,
         "Initial Author Notification (most cases)": false,
@@ -1066,6 +1076,7 @@
         "Revision Deadline": false,
         "Revision Due (Round 2)": false,
         "Revision Submission (major revision only)": false,
+        "Revision due": false,
         "Revisions Due (Round 1)": false,
         "Round 1 - Abstract Submission": false,
         "Round 1 - Author Notification": false,
@@ -1298,6 +1309,9 @@
         "Worksop": true,
         "[Tool Competition] Registration Deadline": false,
         "[Tool Competition] Results Notification": false,
-        "[Tool Competition] Submission Deadline": false
+        "[Tool Competition] Submission Deadline": false,
+        "camera ready deadline": false,
+        "paper notification": false,
+        "submission deadline for all tracks": false
     }
 }
