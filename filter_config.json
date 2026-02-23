@@ -1128,6 +1128,7 @@
         "Round 2 - Abstract Submission": false,
         "Round 2 - Author Notification": true,
         "Round 2 - Paper Submission": true,
+        "Round 2 - Paper Submission (extended)": false,
         "Round 2 - Revision Submission": false,
         "Round 2 - Submission of Revisions": true,
         "Round table at conference": false,
