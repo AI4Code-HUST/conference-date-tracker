@@ -544,6 +544,7 @@
         "SPLASH/ISSTA": {
             "Doctoral symposium": false,
             "ISSTA Research papers": false,
+            "NSAD": false,
             "Posters": false,
             "Posters and Tool Demonstrations": false,
             "SPLASH Artifact evaluation": false,
