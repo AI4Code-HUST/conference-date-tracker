@@ -2,297 +2,304 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Wed 3 Jun 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium\n    
-DTEND:20260604T120000Z
-DTSTART:20260603T120000Z
-SUMMARY:ICSME 2026 - Doctoral Symposium - Paper Submission
-UID:3e78e8d4-1374-461a-8921-efccc42b21f8@3e78.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 27 Feb 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260228T120000Z
-DTSTART:20260227T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Abstract Submission
-UID:7882a5e7-9562-4929-a47c-81d59d829ada@7882.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICST 2026 - AIST - Author Notification
-UID:8a8ee6c3-ac9c-46c0-a9db-8396026ce825@8a8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
-DTEND:20260411T120000Z
-DTSTART:20260410T120000Z
-SUMMARY:ICST 2026 - CCIW - Camera Ready
-UID:363824eb-4e69-4a9c-b36e-0d13a1ad8f77@3638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sat 18 Apr 2026\n        Track: Testing Tools and Data Showcase\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-testing-tools-and-data-showcase\n    
-DTEND:20260419T120000Z
-DTSTART:20260418T120000Z
-SUMMARY:ICST 2026 - Testing Tools and Data Showcase - Author notification
-UID:01b037fa-6c07-4a82-8b3b-69b844252786@01b0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
-DTEND:20260228T120000Z
-DTSTART:20260227T120000Z
-SUMMARY:ICST 2026 - SAFE-ML - Paper Submission
-UID:222835a4-6504-4283-b812-eddfab0f4f86@2228.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: InSTA\n        Event Link: https://conf.researchr.org/home/icst-2026/insta-2026\n    
-DTEND:20260411T120000Z
-DTSTART:20260410T120000Z
-SUMMARY:ICST 2026 - InSTA - Camera ready
-UID:c2c93a8b-6b97-4b40-b0ce-a07b9586eb2f@c2c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-doctoral-symposium\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICST 2026 - Doctoral Symposium - Submission deadline
-UID:1d89c4a2-af52-4295-aa67-e54f6ee75dcf@1d89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 6 Mar 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Paper Submission
-UID:919327de-b0b0-490e-9100-590e410aaca5@9193.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 8 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
-DTEND:20260509T120000Z
-DTSTART:20260508T120000Z
-SUMMARY:ICSME 2026 - Industry Track - Paper Abstract Submission
-UID:5438c121-8818-4c25-b892-9e2368d39f79@5438.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Posters\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-posters\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICST 2026 - Posters - Submission Deadline
-UID:18d3b4ff-6612-417d-945b-4a54c69cc24f@18d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
-DTEND:20260411T120000Z
-DTSTART:20260410T120000Z
-SUMMARY:ICST 2026 - AIST - Camera Ready
-UID:0c67be75-28a6-47dc-8877-ec6fac16c108@0c67.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICST 2026 - SAFE-ML - Author Notification
-UID:5f19aaa8-b4f0-4df2-9206-4a9542560064@5f19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICST 2026 - CCIW - Notification
-UID:d9048156-59d6-464a-8d8a-c314f054750b@d904.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: ITEQS\n        Event Link: https://conf.researchr.org/home/icst-2026/iteqs-2026\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICST 2026 - ITEQS - Author Notification
-UID:50fcfefc-1adf-41b2-89fb-834b29a3728f@50fc.org
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
+DTEND:20260410T120000Z
+DTSTART:20260409T120000Z
+SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
+UID:887a558e-7d83-49a0-a956-dcbdd434c2bf@887a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 3 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-doctoral-symposium\n    
 DTEND:20260404T120000Z
 DTSTART:20260403T120000Z
 SUMMARY:ICST 2026 - Doctoral Symposium - Camera ready submission
-UID:6f155696-b3ab-4c32-8e21-e149831dce23@6f15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICST 2026 - CCIW - Submission Deadline
-UID:e7631482-d5b5-4f1c-8980-fc1aa0b93f46@e763.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
-DTEND:20260328T120000Z
-DTSTART:20260327T120000Z
-SUMMARY:ICST 2026 - Mutation - Author Notification
-UID:ab85172a-72e4-47da-895c-5d32fecb76ff@ab85.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
-DTEND:20260228T120000Z
-DTSTART:20260227T120000Z
-SUMMARY:ICST 2026 - AIST - Submission deadline
-UID:3d32b6b1-de94-41af-a19e-181b86c66514@3d32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: IWCT\n        Event Link: https://conf.researchr.org/home/icst-2026/iwct-2026\n    
-DTEND:20260228T120000Z
-DTSTART:20260227T120000Z
-SUMMARY:ICST 2026 - IWCT - Paper Submission
-UID:44144cc8-3a62-465b-888a-784f767db65f@4414.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
-DTEND:20260411T120000Z
-DTSTART:20260410T120000Z
-SUMMARY:ICST 2026 - Mutation - Camera Ready
-UID:34312a43-391d-4841-b858-576951f6e50e@3431.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Mon 20 Apr 2026\n        Track: Demonstrations and Posters\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-demonstrations-and-posters\n    
-DTEND:20260421T120000Z
-DTSTART:20260420T120000Z
-SUMMARY:ICT4S 2026 - Demonstrations and Posters - Acceptance notification
-UID:e2ccdcad-ece4-42a3-86c0-6ed275b71290@e2cc.org
+UID:5d19a791-9e3e-47af-9b45-630cb15cc99d@5d19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: InSTA\n        Event Link: https://conf.researchr.org/home/icst-2026/insta-2026\n    
 DTEND:20260328T120000Z
 DTSTART:20260327T120000Z
 SUMMARY:ICST 2026 - InSTA - Author notification
-UID:7493756a-9809-471f-92c5-dcca40b3d8a7@7493.org
+UID:d967ab86-3357-41a5-848d-4797723cf909@d967.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
-DTEND:20260530T120000Z
-DTSTART:20260529T120000Z
-SUMMARY:ICSME 2026 - Industry Track - Talk Proposal Submission
-UID:7bb2c0e7-cd76-42ea-8339-84dc7ae70678@7bb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: ITEQS\n        Event Link: https://conf.researchr.org/home/icst-2026/iteqs-2026\n    
 DTEND:20260328T120000Z
 DTSTART:20260327T120000Z
-SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
-UID:f51a7d0c-23ca-4970-ad89-64f08f0c1ec9@f51a.org
+SUMMARY:ICST 2026 - ITEQS - Author Notification
+UID:d3e9172d-190d-4ae0-a835-9f3ecb75afcd@d3e9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sun 3 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
-DTEND:20260504T120000Z
-DTSTART:20260503T120000Z
-SUMMARY:ICSME 2026 - Research Papers Track - Early Decisions Notification
-UID:78b7650f-62fe-4da3-b70b-88c8c1267aec@78b7.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
+DTEND:20260228T120000Z
+DTSTART:20260227T120000Z
+SUMMARY:ICST 2026 - AIST - Submission deadline
+UID:486b146d-9b96-4c31-9533-97f41ae43e75@486b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sun 22 Mar 2026\n        Track: Short Papers\, Vision and Emerging Results\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-short-papers--vision-and-emerging-results\n    
-DTEND:20260323T120000Z
-DTSTART:20260322T120000Z
-SUMMARY:ICST 2026 - Short Papers\, Vision and Emerging Results - Camera-ready deadline
-UID:380d7e1c-7402-4753-bbf8-b3bf59561df1@380d.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: InSTA\n        Event Link: https://conf.researchr.org/home/icst-2026/insta-2026\n    
+DTEND:20260411T120000Z
+DTSTART:20260410T120000Z
+SUMMARY:ICST 2026 - InSTA - Camera ready
+UID:22a5394c-599d-4fec-a660-d0da53f05d6f@22a5.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 22 May 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
-DTEND:20260523T120000Z
-DTSTART:20260522T120000Z
-SUMMARY:ICST 2026 - CCIW - Workshop Date
-UID:c2926e81-c4f6-47d3-9b8c-f25ab33e43a0@c292.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: IWCT\n        Event Link: https://conf.researchr.org/home/icst-2026/iwct-2026\n    
+DTEND:20260228T120000Z
+DTSTART:20260227T120000Z
+SUMMARY:ICST 2026 - IWCT - Paper Submission
+UID:6e884ae9-e684-4fd7-99b5-3fbedd2145f1@6e88.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 3 Apr 2026\n        Track: Posters\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-posters\n    
-DTEND:20260404T120000Z
-DTSTART:20260403T120000Z
-SUMMARY:ICST 2026 - Posters - Camera Ready
-UID:1e50a594-5c9e-430b-923e-6a05cf0d76f8@1e50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
-DTEND:20260307T120000Z
-DTSTART:20260306T120000Z
-SUMMARY:ICST 2026 - Mutation - Submission Deadline
-UID:ee275087-cc1e-456e-9a96-f445970c08f5@ee27.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Mon 2 Mar 2026\n        Track: ITEQS\n        Event Link: https://conf.researchr.org/home/icst-2026/iteqs-2026\n    
-DTEND:20260303T120000Z
-DTSTART:20260302T120000Z
-SUMMARY:ICST 2026 - ITEQS - Paper Submission
-UID:54dac063-cdcc-4155-9fd2-18d3c7d0b55b@54da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sat 6 Jun 2026\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-journal-first\n    
-DTEND:20260607T120000Z
-DTSTART:20260606T120000Z
-SUMMARY:ICSME 2026 - Journal First Track - Paper Submission Deadline
-UID:2dcb3a18-96c7-433c-bc3a-828dd2db8c27@2dcb.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICST 2026 - Mutation - Author Notification
+UID:b6e45126-b201-477d-9534-58fdcc4a0a2c@b6e4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 20 Mar 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-doctoral-symposium\n    
 DTEND:20260321T120000Z
 DTSTART:20260320T120000Z
 SUMMARY:ICST 2026 - Doctoral Symposium - Notification
-UID:dfd7ceb6-52dd-4c5f-a274-d814cef00e48@dfd7.org
+UID:47255c8c-dcfe-41f0-9dbc-ba330538f3cc@4725.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
-DTEND:20260411T120000Z
-DTSTART:20260410T120000Z
-SUMMARY:ICST 2026 - SAFE-ML - Camera-ready Submission
-UID:80a2299c-c727-46b5-8ba7-1fd734e7b4c7@80a2.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sat 18 Apr 2026\n        Track: Testing Tools and Data Showcase\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-testing-tools-and-data-showcase\n    
+DTEND:20260419T120000Z
+DTSTART:20260418T120000Z
+SUMMARY:ICST 2026 - Testing Tools and Data Showcase - Author notification
+UID:8a44fa10-823c-4fad-a1e4-8ec14548683d@8a44.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Thu 12 Mar 2026\n        Track: Testing Tools and Data Showcase\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-testing-tools-and-data-showcase\n    
 DTEND:20260313T120000Z
 DTSTART:20260312T120000Z
 SUMMARY:ICST 2026 - Testing Tools and Data Showcase - Submission deadline
-UID:529d5798-fd46-45f5-8483-c4c875360a1b@529d.org
+UID:5e04d9ce-9f8b-496f-a30b-a862a8ba4b38@5e04.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 15 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
 DTEND:20260516T120000Z
 DTSTART:20260515T120000Z
 SUMMARY:ICSME 2026 - Industry Track - Paper Submission
-UID:538fd194-bf40-4fda-8379-e449ca3eb301@538f.org
+UID:6f61828c-74f1-4899-8c38-52cb4c6c511d@6f61.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sun 15 Mar 2026\n        Track: Short Papers\, Vision and Emerging Results\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-short-papers--vision-and-emerging-results\n    
-DTEND:20260316T120000Z
-DTSTART:20260315T120000Z
-SUMMARY:ICST 2026 - Short Papers\, Vision and Emerging Results - Author notification
-UID:bd11b0a0-88d0-48dd-a597-60b0850b41ce@bd11.org
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sat 6 Jun 2026\n        Track: Journal First Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-journal-first\n    
+DTEND:20260607T120000Z
+DTSTART:20260606T120000Z
+SUMMARY:ICSME 2026 - Journal First Track - Paper Submission Deadline
+UID:36fd8ba7-76d8-42e0-ac00-d14a729955da@36fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Mon 20 Apr 2026\n        Track: Demonstrations and Posters\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-demonstrations-and-posters\n    
+DTEND:20260421T120000Z
+DTSTART:20260420T120000Z
+SUMMARY:ICT4S 2026 - Demonstrations and Posters - Acceptance notification
+UID:aeed9ed6-502b-423e-bff7-d84764a0b456@aeed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
+DTEND:20260411T120000Z
+DTSTART:20260410T120000Z
+SUMMARY:ICST 2026 - CCIW - Camera Ready
+UID:c785d278-71f6-4148-b32c-030e33bffe1e@c785.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Feb 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
+DTEND:20260228T120000Z
+DTSTART:20260227T120000Z
+SUMMARY:ICST 2026 - SAFE-ML - Paper Submission
+UID:b749d70a-9ba2-4f4a-bd00-f7de249f60d2@b749.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Wed 24 Jun 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium\n    
 DTEND:20260625T120000Z
 DTSTART:20260624T120000Z
 SUMMARY:ICSME 2026 - Doctoral Symposium - Author Notification
-UID:fed69a20-c3e8-4482-bf01-7dc13826dfb6@fed6.org
+UID:139230cf-1792-42da-9e11-32d7dc2dd5c7@1392.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 9 Apr 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-doctoral-symposium\n    
-DTEND:20260410T120000Z
-DTSTART:20260409T120000Z
-SUMMARY:ICT4S 2026 - Doctoral Symposium - Acceptance notification
-UID:63ad89d9-a48b-4ee8-9e6f-3029a08a61ca@63ad.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICST 2026 - CCIW - Submission Deadline
+UID:c9626389-d101-4fbe-a829-9594952654b5@c962.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
-DTEND:20260403T120000Z
-DTSTART:20260402T120000Z
-SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
-UID:5ccdb4a6-6dec-415f-96ad-54ea1dcc487d@5ccd.org
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Mon 2 Mar 2026\n        Track: ITEQS\n        Event Link: https://conf.researchr.org/home/icst-2026/iteqs-2026\n    
+DTEND:20260303T120000Z
+DTSTART:20260302T120000Z
+SUMMARY:ICST 2026 - ITEQS - Paper Submission
+UID:51b5ef94-de93-4cd7-a1fc-4a13d4f29cb3@51b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 8 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
+DTEND:20260509T120000Z
+DTSTART:20260508T120000Z
+SUMMARY:ICSME 2026 - Industry Track - Paper Abstract Submission
+UID:28209098-261a-4fbb-9ef6-ec2fff5151c8@2820.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
+DTEND:20260411T120000Z
+DTSTART:20260410T120000Z
+SUMMARY:ICST 2026 - SAFE-ML - Camera-ready Submission
+UID:8dd1e3ac-0fcd-43d1-8d7b-d6e1d8911c45@8dd1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Mon 18 May 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
+DTEND:20260519T120000Z
+DTSTART:20260518T120000Z
+SUMMARY:ICST 2026 - Mutation - Workshop Date
+UID:57e8c4ed-26c1-4421-8bc6-90d027efb206@57e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 3 Apr 2026\n        Track: Posters\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-posters\n    
+DTEND:20260404T120000Z
+DTSTART:20260403T120000Z
+SUMMARY:ICST 2026 - Posters - Camera Ready
+UID:445aa659-218b-49e2-b061-cca11e2035dc@445a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-doctoral-symposium\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICST 2026 - Doctoral Symposium - Submission deadline
+UID:a052d17b-0dd2-412b-8b55-0d4ea5242e9d@a052.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
 DTEND:20260530T120000Z
 DTSTART:20260529T120000Z
 SUMMARY:ICSME 2026 - Research Papers Track - Final Notification
-UID:027e58c7-94dc-4be1-b2b2-477732cd4249@027e.org
+UID:3d60de45-ee5f-4562-be5e-dfbc75473f4d@3d60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Posters\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-posters\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICST 2026 - Posters - Submission Deadline
+UID:cfbf62ef-33d5-41e1-afcf-276a11d3160a@cfbf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
+DTEND:20260411T120000Z
+DTSTART:20260410T120000Z
+SUMMARY:ICST 2026 - AIST - Camera Ready
+UID:381fbe2c-8de6-497b-ad01-89cf371fdc34@381f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Fri 27 Mar 2026\n        Track: Journal First\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-journal-first\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICT4S 2026 - Journal First - Acceptance notification
+UID:7b74ee22-fadd-4261-824a-f67b4034c1fe@7b74.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 10 Apr 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
+DTEND:20260411T120000Z
+DTSTART:20260410T120000Z
+SUMMARY:ICST 2026 - Mutation - Camera Ready
+UID:a5e18776-80d0-41b6-8e38-d24ebd191417@a5e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 29 May 2026\n        Track: Industry Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track\n    
+DTEND:20260530T120000Z
+DTSTART:20260529T120000Z
+SUMMARY:ICSME 2026 - Industry Track - Talk Proposal Submission
+UID:8e226a9b-7b9e-4168-8661-c08bd96a37b8@8e22.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 27 Feb 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260228T120000Z
+DTSTART:20260227T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Abstract Submission
+UID:6b0da5ec-aec1-4d9d-96d7-3be3d1364c2d@6b0d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: AIST\n        Event Link: https://conf.researchr.org/home/icst-2026/aist-2026\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICST 2026 - AIST - Author Notification
+UID:2d968fc7-0e47-45a1-b432-1239690b5b02@2d96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 22 May 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
+DTEND:20260523T120000Z
+DTSTART:20260522T120000Z
+SUMMARY:ICST 2026 - CCIW - Workshop Date
+UID:984aa4e4-b599-4686-b760-cba7320e7a0a@984a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: CCIW\n        Event Link: https://conf.researchr.org/home/icst-2026/cciw-2026\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICST 2026 - CCIW - Notification
+UID:e9ed5d5f-d67a-456d-81d6-ff22eb65dc39@e9ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sun 22 Mar 2026\n        Track: Short Papers\, Vision and Emerging Results\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-short-papers--vision-and-emerging-results\n    
+DTEND:20260323T120000Z
+DTSTART:20260322T120000Z
+SUMMARY:ICST 2026 - Short Papers\, Vision and Emerging Results - Camera-ready deadline
+UID:836f5066-1833-4800-a074-8d6772c39057@836f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Sun 15 Mar 2026\n        Track: Short Papers\, Vision and Emerging Results\n        Event Link: https://conf.researchr.org/track/icst-2026/icst-2026-short-papers--vision-and-emerging-results\n    
+DTEND:20260316T120000Z
+DTSTART:20260315T120000Z
+SUMMARY:ICST 2026 - Short Papers\, Vision and Emerging Results - Author notification
+UID:361bd04a-030f-4a8d-b487-75fef1f225d1@361b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: IWCT\n        Event Link: https://conf.researchr.org/home/icst-2026/iwct-2026\n    
 DTEND:20260328T120000Z
 DTSTART:20260327T120000Z
 SUMMARY:ICST 2026 - IWCT - Author Notification
-UID:a47cd948-9b8c-480f-b599-6bfb9762b5f1@a47c.org
+UID:cddb7d19-10e9-4972-95d0-b2b0fc9bc681@cddb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Fri 6 Mar 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Paper Submission
+UID:cdc760c0-24d0-4a7b-b5d7-4358218574e5@cdc7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 6 Mar 2026\n        Track: Mutation\n        Event Link: https://conf.researchr.org/home/icst-2026/mutation-2026\n    
+DTEND:20260307T120000Z
+DTSTART:20260306T120000Z
+SUMMARY:ICST 2026 - Mutation - Submission Deadline
+UID:5ba2bd2f-bc2b-4007-9894-87ae65cee061@5ba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Sun 3 May 2026\n        Track: Research Papers Track\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-papers\n    
+DTEND:20260504T120000Z
+DTSTART:20260503T120000Z
+SUMMARY:ICSME 2026 - Research Papers Track - Early Decisions Notification
+UID:b552e0c5-36f9-4088-bf63-bc54a0bb5dc2@b552.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICT4S 2026\n        Conference Link: https://conf.researchr.org/home/ict4s-2026\n        Date: Thu 2 Apr 2026\n        Track: Research Papers\n        Event Link: https://conf.researchr.org/track/ict4s-2026/ict4s-2026-papers\n    
+DTEND:20260403T120000Z
+DTSTART:20260402T120000Z
+SUMMARY:ICT4S 2026 - Research Papers - Acceptance notification
+UID:617c1079-a786-42d9-bd45-c43c4ea358bf@617c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICSME 2026\n        Conference Link: https://conf.researchr.org/home/icsme-2026\n        Date: Wed 3 Jun 2026\n        Track: Doctoral Symposium\n        Event Link: https://conf.researchr.org/track/icsme-2026/icsme-2026-doctoral-symposium\n    
+DTEND:20260604T120000Z
+DTSTART:20260603T120000Z
+SUMMARY:ICSME 2026 - Doctoral Symposium - Paper Submission
+UID:6c2edbed-bc1d-4064-b139-77bd928f20b8@6c2e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:\n        Conference: ICST 2026\n        Conference Link: https://conf.researchr.org/home/icst-2026\n        Date: Fri 27 Mar 2026\n        Track: SAFE-ML\n        Event Link: https://conf.researchr.org/home/icst-2026/safe-ml-2026\n    
+DTEND:20260328T120000Z
+DTSTART:20260327T120000Z
+SUMMARY:ICST 2026 - SAFE-ML - Author Notification
+UID:ca15db4f-c3f4-4d2b-842b-24792ddcb7c6@ca15.org
 END:VEVENT
 END:VCALENDAR

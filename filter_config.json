@@ -409,6 +409,8 @@
             "ACM SRC": true,
             "Artifact Evaluation": true,
             "Doctoral Symposium": true,
+            "EDTconf Industrial Talks": false,
+            "EDTconf Short Papers": false,
             "EDTconf Technical Track": false,
             "Educators Symposium": true,
             "Journal-First": true,
@@ -543,6 +545,7 @@
         "Sun 6 July - Thu 9 July  FSE": {},
         "SPLASH/ISSTA": {
             "Doctoral symposium": false,
+            "EXPRESS": false,
             "ISSTA Research papers": false,
             "NSAD": false,
             "Posters": false,
