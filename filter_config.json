@@ -371,6 +371,7 @@
             "IWCT": true,
             "InSTA": true,
             "Industry": false,
+            "Intelligent SE": false,
             "Journal-First Papers": false,
             "Mutation": true,
             "NEXTA": true,
@@ -549,6 +550,7 @@
             "EXPRESS": false,
             "ISSTA Research papers": false,
             "NSAD": false,
+            "PLSS": false,
             "Posters": false,
             "Posters and Tool Demonstrations": false,
             "SPLASH Artifact evaluation": false,
@@ -610,6 +612,7 @@
         }
     },
     "content_filter": {
+        "\"Kick-the-tires\" rebuttal": false,
         "(Mandatory) Abstract": false,
         "AST conference": false,
         "Abstract": true,
