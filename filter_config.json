@@ -812,6 +812,7 @@
         "Camera-ready submission of experience reports": false,
         "Camera-ready version": true,
         "Camera-ready version due": false,
+        "Camera-ready versions": false,
         "Camera-ready workshop copies": true,
         "Camera-ready workshop papers and copyright forms uploaded": false,
         "Camera\u2011ready Deadline": false,
